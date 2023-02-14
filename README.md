@@ -8,9 +8,11 @@ This repository contains information about the Java version used to build this p
 
 The version of Java used is:
 
-```openjdk version "19.0.2" 2023-01-17```
-```OpenJDK Runtime Environment (build 19.0.2+7-44)```
-```OpenJDK 64-Bit Server VM (build 19.0.2+7-44, mixed mode, sharing)```
+```
+openjdk version "19.0.2" 2023-01-17
+OpenJDK Runtime Environment (build 19.0.2+7-44)
+OpenJDK 64-Bit Server VM (build 19.0.2+7-44, mixed mode, sharing)
+```
 
 
 ## Installation
