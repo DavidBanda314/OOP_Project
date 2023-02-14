@@ -23,8 +23,13 @@ To install this version of Java, follow the instructions on the [OpenJDK website
 
 To check the version of Java installed on your machine, run the following command:
 
+```java -version```
 
 This will display the version of Java that is currently installed.
+
+## Contributors
+
+This project was created by David Banda and Matt Riopelle, students at CU Boulder.
 
 ## License
 
