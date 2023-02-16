@@ -8,12 +8,40 @@ enum Cleanliness {
     sparkling, clean, dirty
 }
 class Vehicle {
+    //all of these private variables are examples of encapsulation.
+    //these are all hidden implementation details of the class,
+    //and outside of the class, you can not have direct access to these members.
     private String name;
     private Double cost;
     private Double salesPrice;
     private Condition condition;
     private Cleanliness cleanliness;
-    public Vehicle(Double cost, Double salesPrice, Condition condition, Cleanliness cleanliness) {
+    private double repairBonus;
+    private double washBonus;
+    private double saleBonus;
+    public Vehicle(Double cost) {
+        this.salesPrice = cost * 2;
+        Random rand = new Random();
+        int randomNum = rand.nextInt(3) + 1;
+        if(randomNum == 1){
+            this.condition = Condition.LikeNew;
+        }
+        else if(randomNum == 2){
+            this.condition = Condition.Broken;
+        }
+        else{
+            this.condition = Condition.Used;
+        }
+        randomNum = rand.nextInt(100) + 1;
+        if(randomNum <= 5){
+            this.cleanliness = Cleanliness.sparkling;
+        }
+        else if(randomNum <= 40){
+            this.cleanliness = Cleanliness.clean;
+        }
+        else{
+            this.cleanliness = Cleanliness.dirty;
+        }
         if(condition == Condition.Broken){
             this.cost = cost * 0.5;
         }
@@ -23,8 +51,22 @@ class Vehicle {
         else if(condition == Condition.LikeNew){
             this.cost = cost;
         }
-        this.cleanliness = cleanliness;
-        this.salesPrice = salesPrice;
+    }
+
+    //this is an example of abstraction. It is simply a method
+    //that is provided to achieve a task, or solve a problem.
+    //however, we do not know the inner workings of what the function
+    //really does. All we know is the high level, necessary information
+    public double getRepairBonus(){
+        return this.repairBonus;
+    }
+
+    public double getWashBonus(){
+        return this.washBonus;
+    }
+
+    public double getSaleBonus(){
+        return this.saleBonus;
     }
 
     public String getName() {
@@ -62,24 +104,24 @@ class Car extends Vehicle {
     private static int nextId = 1;
     private int id;
 
-    private float repairBonus = 200;
-    private float washBonus = 100;
-    private float saleBonus = 500;
+    private double repairBonus = 200;
+    private double washBonus = 100;
+    private double saleBonus = 500;
 
-    public Car(Double cost, Double salesPrice, Condition condition, Cleanliness cleanliness) {
-        super(cost, salesPrice, condition, cleanliness);
+    public Car(Double cost) {
+        super(cost);
         this.id = nextId++;
         this.setName("Car" + id);
     }
-    public float getWashBonus() {
+    public double getWashBonus() {
         return washBonus;
     }
 
-    public float getSaleBonus() {
+    public double getSaleBonus() {
         return saleBonus;
     }
 
-    public float getRepairBonus() {
+    public double getRepairBonus() {
         return repairBonus;
     }
 }
@@ -88,50 +130,50 @@ class PerformanceCar extends Vehicle {
     private static int nextId = 1;
     private int id;
 
-    private float repairBonus = 400;
-    private float washBonus = 200;
-    private float saleBonus = 1000;
+    private double repairBonus = 400;
+    private double washBonus = 200;
+    private double saleBonus = 1000;
 
-    public PerformanceCar(Double cost, Double salesPrice, Condition condition, Cleanliness cleanliness) {
-        super(cost, salesPrice, condition, cleanliness);
+    public PerformanceCar(Double cost) {
+        super(cost);
         this.id = nextId++;
         this.setName("PC" + id);
     }
-    public float getWashBonus() {
+    public double getWashBonus() {
         return washBonus;
     }
 
-    public float getSaleBonus() {
+    public double getSaleBonus() {
         return saleBonus;
     }
 
-    public float getRepairBonus() {
+    public double getRepairBonus() {
         return repairBonus;
     }
 }
 
 class Pickup extends Vehicle {
-    private float repairBonus = 300;
-    private float washBonus = 150;
-    private float saleBonus = 750;
+    private double repairBonus = 300;
+    private double washBonus = 150;
+    private double saleBonus = 750;
     private static int nextId = 1;
     private int id;
 
-    public Pickup(Double cost, Double salesPrice, Condition condition, Cleanliness cleanliness) {
-        super(cost, salesPrice, condition, cleanliness);
+    public Pickup(Double cost) {
+        super(cost);
         this.id = nextId++;
         this.setName("Pickup" + id);
     }
 
-    public float getWashBonus() {
+    public double getWashBonus() {
         return washBonus;
     }
 
-    public float getSaleBonus() {
+    public double getSaleBonus() {
         return saleBonus;
     }
 
-    public float getRepairBonus() {
+    public double getRepairBonus() {
         return repairBonus;
     }
 }

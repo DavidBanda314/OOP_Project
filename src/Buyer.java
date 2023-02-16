@@ -6,13 +6,13 @@ public class Buyer {
         int randomNum = (int) (Math.random() * 3) + 1;
         switch (randomNum) {
             case 1:
-                this.chanceBuying = 0.1;
+                this.chanceBuying = 10;
                 break;
             case 2:
-                this.chanceBuying = 0.5;
+                this.chanceBuying = 50;
                 break;
             case 3:
-                this.chanceBuying = 0.7;
+                this.chanceBuying = 70;
                 break;
         }
     }
@@ -21,20 +21,26 @@ public class Buyer {
         int randomNum = (int)(Math.random() * 3) + 1;
         switch (randomNum) {
             case 1:
-                this.typeNeeded = "JustLooking";
+                this.typeNeeded = "Performance";
                 break;
             case 2:
-                this.typeNeeded = "WantsOne";
+                this.typeNeeded = "Car";
                 break;
             case 3:
-                this.typeNeeded = "NeedsOne";
+                this.typeNeeded = "Pickup";
                 break;
         }
     }
     public Buyer() {
             setChanceBuying();
             setTypeNeeded();
-            System.out.println(this.chanceBuying);
-            System.out.println(this.typeNeeded);
+    }
+
+    public double getChanceBuying(){
+        return this.chanceBuying;
+    }
+
+    public String getTypeNeeded(){
+        return this.typeNeeded;
     }
 }

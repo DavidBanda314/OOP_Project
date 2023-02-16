@@ -1,10 +1,11 @@
 import java.lang.Math;
 
+//below is one example of cohesion. The staff class is initialized to have on clear implementation goal.
 public class Staff {
     protected String name;
     protected Double salary;
-    private Double bonuses;
-    private Integer daysWorked;
+    protected Double bonuses;
+    protected Integer daysWorked;
 
     public Staff(){
         String[] firstName = {"Matt","John","Luke", "Sarah", "Christine", "Michelle", "Paige", "Ryan", "Daniel", "Emily", "Shane", "David", "Katherine", "Brittany", "Jeff", "Diane", "Jaden", "Max", "Carter", "Sarah"};
@@ -18,6 +19,14 @@ public class Staff {
         this.daysWorked = 0;
     }
 
+    public Staff(String name, Double salary, Double Bonuses, Integer daysWorked){
+        this.name = name;
+        this.salary = salary;
+        this.bonuses = Bonuses;
+        this.daysWorked = daysWorked;
+    }
+
+    //this method is another example of cohesion. This method doesn't try to do too much, it simply does one thing: return a name
     public String getName(){
         return this.name;
     }
@@ -54,6 +63,14 @@ class Mechanic extends Staff{
         this.uniqueRate = 300.00;
         this.name = "MC: " + this.name;
     }
+    public Mechanic(String name, Double salary, Double Bonuses, Integer daysWorked){
+        this.name = name;
+        this.salary = salary;
+        this.bonuses = Bonuses;
+        this.daysWorked = daysWorked;
+        this.uniqueRate = 300.00;
+        this.name = "MC: " + this.name;
+    }
 
     public void addSalary(){
         this.salary += this.uniqueRate;
@@ -67,6 +84,15 @@ class SalesPerson extends Staff{
         this.uniqueRate = 350.00;
         this.name = "SP: " + this.name;
     }
+    //example of polymorphism. Can either choose the default constructer, or this one, depending on parameter input
+    public SalesPerson(String name, Double salary, Double Bonuses, Integer daysWorked){
+        this.name = name;
+        this.salary = salary;
+        this.bonuses = Bonuses;
+        this.daysWorked = daysWorked;
+        this.uniqueRate = 300.00;
+        this.name = "SP: " + this.name;
+    }
 
     public void addSalary(){
         this.salary += this.uniqueRate;
@@ -74,10 +100,20 @@ class SalesPerson extends Staff{
 }
 
 class Intern extends Staff{
+    //this is an example of Inheritance. Intern is inheriting all of the properties from Staff.
     private Double uniqueRate;
 
     public Intern() {
         this.uniqueRate = 250.00;
+        this.name = "IN: " + this.name;
+    }
+
+    public Intern(String name, Double salary, Double Bonuses, Integer daysWorked){
+        this.name = name;
+        this.salary = salary;
+        this.bonuses = Bonuses;
+        this.daysWorked = daysWorked;
+        this.uniqueRate = 300.00;
         this.name = "IN: " + this.name;
     }
 
