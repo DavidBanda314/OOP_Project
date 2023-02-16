@@ -4,7 +4,7 @@
 
 This repository contains information about the Java version used to build this project.
 
-##Team Members
+#Team Members
 
 Matt Riopelle
 David Banda
