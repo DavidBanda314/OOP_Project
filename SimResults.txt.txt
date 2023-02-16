@@ -1,0 +1,2857 @@
+IN: David O has made a dirty car clean!
+IN: David O has made a dirty car clean!
+IN: Christine R has made a dirty car clean!
+IN: Christine R has made a dirty car clean!
+IN: Michelle O has made a dirty car clean!
+IN: Michelle O has made a dirty car clean!
+MC: Diane N has made a used car like new!
+MC: Diane N has made a used car like new!
+MC: Luke W has made a used car like new!
+MC: Luke W has made a broken car used!
+MC: Katherine I has made a used car like new!
+MC: Katherine I has made a broken car used!
+SP: Brittany N has sold a pickup truck!
+
+
+Daily Report:
+Interns:
+
+Name: IN: David O   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Christine R   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Michelle O   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: Diane N   Days Worked: 1   Normal Pay: 300.0   Bonus Pay: 500.0   Working: Employed
+Name: MC: Luke W   Days Worked: 1   Normal Pay: 300.0   Bonus Pay: 700.0   Working: Employed
+Name: MC: Katherine I   Days Worked: 1   Normal Pay: 300.0   Bonus Pay: 600.0   Working: Employed
+
+Sales People:
+
+Name: SP: Brittany N   Days Worked: 1   Normal Pay: 350.0   Bonus Pay: 750.0   Working: Employed
+Name: SP: Emily C   Days Worked: 1   Normal Pay: 350.0   Bonus Pay: 0.0   Working: Employed
+Name: SP: Max S   Days Worked: 1   Normal Pay: 350.0   Bonus Pay: 0.0   Working: Employed
+
+Past Workers:
+
+
+
+Inventory:
+Cars:
+
+Name: Car1   Cost: 11613.915059637638   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Car2   Cost: 13430.916405140702   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Car3   Cost: 12778.737187420084   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+
+Performance Cars:
+
+Name: PC1   Cost: 35460.744624934916   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC2   Cost: 29056.76194029685   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC3   Cost: 17472.4744602584   Sales Price: 46593.26522735573   Condition: Used   Cleanliness: dirty   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup5   Cost: 13687.387208190174   Sales Price: 54749.548832760694   Condition: Broken   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Pickup3   Cost: 35838.7855215263   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 313624.7039416503
+Daily Sales: 76489
+Day Number: 1
+IN: David O has made a dirty car clean!
+IN: David O has made a dirty car clean!
+IN: Christine R has made a dirty car sparkling!
+IN: Christine R has made a dirty car clean!
+IN: Michelle O has made a dirty car clean!
+IN: Michelle O has made a dirty car clean!
+MC: Diane N has made a used car like new!
+MC: Diane N has made a broken car used!
+MC: Luke W has made a used car like new!
+SP: Max S has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: David O   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Christine R   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 200.0   Working: Employed
+Name: IN: Jaden Q   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: Diane N   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1200.0   Working: Employed
+Name: MC: Luke W   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1100.0   Working: Employed
+Name: MC: Katherine I   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 600.0   Working: Employed
+
+Sales People:
+
+Name: SP: Brittany N   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 750.0   Working: Employed
+Name: SP: Emily C   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Employed
+Name: SP: IN: Michelle O   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car1   Cost: 11613.915059637638   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Car2   Cost: 13430.916405140702   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Car3   Cost: 12778.737187420084   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Performance Cars:
+
+Name: PC1   Cost: 35460.744624934916   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC2   Cost: 29056.76194029685   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC3   Cost: 21840.593075323   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup5   Cost: 20531.08081228526   Sales Price: 54749.548832760694   Condition: Used   Cleanliness: dirty   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Pickup3   Cost: 35838.7855215263   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 310924.7039416503
+Daily Sales: 0
+Day Number: 2
+IN: David O has made a dirty car clean!
+IN: David O has made a dirty car clean!
+IN: Christine R has made a dirty car clean!
+IN: Christine R has made a dirty car clean!
+MC: Diane N has made a used car like new!
+SP: Brittany N has sold a car!
+IN: Christine R has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: David O   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Carter C   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Jaden Q   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: Diane N   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 1500.0   Working: Employed
+Name: MC: Luke W   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 1100.0   Working: Employed
+Name: MC: Katherine I   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 600.0   Working: Employed
+
+Sales People:
+
+Name: SP: Brittany N   Days Worked: 3   Normal Pay: 1050.0   Bonus Pay: 1250.0   Working: Employed
+Name: SP: Emily C   Days Worked: 3   Normal Pay: 1050.0   Bonus Pay: 0.0   Working: Employed
+Name: SP: IN: Michelle O   Days Worked: 3   Normal Pay: 800.0   Bonus Pay: 0.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car1   Cost: 11613.915059637638   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Car5   Cost: 8287.540063012966   Sales Price: 33150.160252051865   Condition: Broken   Cleanliness: dirty   Sold: In Stock
+Name: Car3   Cost: 12778.737187420084   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Performance Cars:
+
+Name: PC1   Cost: 35460.744624934916   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC2   Cost: 29056.76194029685   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC3   Cost: 21840.593075323   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup5   Cost: 25663.851015356577   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Pickup3   Cost: 35838.7855215263   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 326798.99668891873
+Daily Sales: 26861
+Day Number: 3
+IN: David O has made a dirty car clean!
+IN: David O has made a dirty car clean!
+IN: Carter C has made a clean car sparkling!
+IN: Jaden Q has made a clean car sparkling!
+MC: Diane N has made a broken car used!
+SP: Emily C has sold a car!
+SP: Emily C has sold a pickup truck!
+MC: Luke W has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: David O   Days Worked: 4   Normal Pay: 1000.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Carter C   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Employed
+Name: IN: Matt A   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: Diane N   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1700.0   Working: Employed
+Name: MC: IN: Jaden Q   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 150.0   Working: Employed
+Name: MC: Katherine I   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 600.0   Working: Employed
+
+Sales People:
+
+Name: SP: Brittany N   Days Worked: 4   Normal Pay: 1400.0   Bonus Pay: 1250.0   Working: Employed
+Name: SP: Emily C   Days Worked: 4   Normal Pay: 1400.0   Bonus Pay: 1250.0   Working: Employed
+Name: SP: IN: Michelle O   Days Worked: 4   Normal Pay: 1100.0   Bonus Pay: 0.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car1   Cost: 11613.915059637638   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Car5   Cost: 12431.31009451945   Sales Price: 33150.160252051865   Condition: Used   Cleanliness: dirty   Sold: In Stock
+Name: Car6   Cost: 6298.642545921743   Sales Price: 25194.57018368697   Condition: Broken   Cleanliness: clean   Sold: In Stock
+
+Performance Cars:
+
+Name: PC1   Cost: 35460.744624934916   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC2   Cost: 29056.76194029685   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC3   Cost: 21840.593075323   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup5   Cost: 25663.851015356577   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup6   Cost: 16987.868591099705   Sales Price: 42469.67147774926   Condition: Used   Cleanliness: clean   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 398047.53096979007
+Daily Sales: 97234
+Day Number: 4
+IN: David O has made a dirty car clean!
+IN: Matt A has made a clean car sparkling!
+IN: Matt A has made a clean car sparkling!
+MC: Diane N has made a used car like new!
+MC: IN: Jaden Q has made a broken car used!
+MC: IN: Jaden Q has made a used car like new!
+
+
+Daily Report:
+Interns:
+
+Name: IN: David O   Days Worked: 5   Normal Pay: 1250.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Carter C   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 100.0   Working: Employed
+Name: IN: Matt A   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 400.0   Working: Employed
+
+Mechanics:
+
+Name: MC: Diane N   Days Worked: 5   Normal Pay: 1500.0   Bonus Pay: 1900.0   Working: Employed
+Name: MC: IN: Jaden Q   Days Worked: 3   Normal Pay: 800.0   Bonus Pay: 650.0   Working: Employed
+Name: MC: Katherine I   Days Worked: 5   Normal Pay: 1500.0   Bonus Pay: 600.0   Working: Employed
+
+Sales People:
+
+Name: SP: Brittany N   Days Worked: 5   Normal Pay: 1750.0   Bonus Pay: 1250.0   Working: Employed
+Name: SP: Emily C   Days Worked: 5   Normal Pay: 1750.0   Bonus Pay: 1250.0   Working: Employed
+Name: SP: IN: Michelle O   Days Worked: 5   Normal Pay: 1400.0   Bonus Pay: 0.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car1   Cost: 11613.915059637638   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Car5   Cost: 15539.13761814931   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Car6   Cost: 9447.963818882614   Sales Price: 25194.57018368697   Condition: Used   Cleanliness: dirty   Sold: In Stock
+
+Performance Cars:
+
+Name: PC1   Cost: 35460.744624934916   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC2   Cost: 29056.76194029685   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC3   Cost: 21840.593075323   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup5   Cost: 25663.851015356577   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup6   Cost: 21234.83573887463   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 395347.53096979007
+Daily Sales: 0
+Day Number: 5
+IN: David O has made a dirty car clean!
+IN: David O has made a dirty car clean!
+IN: Carter C has made a dirty car clean!
+IN: Carter C has made a clean car sparkling!
+MC: Diane N has made a used car like new!
+
+
+Daily Report:
+Interns:
+
+Name: IN: David O   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Carter C   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Employed
+Name: IN: Matt A   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 400.0   Working: Employed
+
+Mechanics:
+
+Name: MC: Diane N   Days Worked: 6   Normal Pay: 1800.0   Bonus Pay: 2100.0   Working: Employed
+Name: MC: IN: Jaden Q   Days Worked: 4   Normal Pay: 1100.0   Bonus Pay: 650.0   Working: Employed
+Name: MC: Katherine I   Days Worked: 6   Normal Pay: 1800.0   Bonus Pay: 600.0   Working: Employed
+
+Sales People:
+
+Name: SP: Brittany N   Days Worked: 6   Normal Pay: 2100.0   Bonus Pay: 1250.0   Working: Employed
+Name: SP: Emily C   Days Worked: 6   Normal Pay: 2100.0   Bonus Pay: 1250.0   Working: Employed
+Name: SP: IN: Michelle O   Days Worked: 6   Normal Pay: 1700.0   Bonus Pay: 0.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car1   Cost: 11613.915059637638   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car5   Cost: 15539.13761814931   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Car6   Cost: 11809.954773603267   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+
+Performance Cars:
+
+Name: PC1   Cost: 35460.744624934916   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC2   Cost: 29056.76194029685   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC3   Cost: 21840.593075323   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup5   Cost: 25663.851015356577   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup6   Cost: 21234.83573887463   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 392647.53096979007
+Daily Sales: 0
+Day Number: 6
+IN: David O has made a dirty car clean!
+IN: Carter C has made a clean car sparkling!
+IN: Matt A has made a clean car sparkling!
+SP: Brittany N has sold a pickup truck!
+SP: Emily C has sold a performance car!
+
+
+Daily Report:
+Interns:
+
+Name: IN: David O   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Carter C   Days Worked: 4   Normal Pay: 1000.0   Bonus Pay: 350.0   Working: Employed
+Name: IN: Matt A   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 550.0   Working: Employed
+
+Mechanics:
+
+Name: MC: Diane N   Days Worked: 7   Normal Pay: 2100.0   Bonus Pay: 2100.0   Working: Employed
+Name: MC: IN: Jaden Q   Days Worked: 5   Normal Pay: 1400.0   Bonus Pay: 650.0   Working: Employed
+Name: MC: Katherine I   Days Worked: 7   Normal Pay: 2100.0   Bonus Pay: 600.0   Working: Employed
+
+Sales People:
+
+Name: SP: Brittany N   Days Worked: 7   Normal Pay: 2450.0   Bonus Pay: 2000.0   Working: Employed
+Name: SP: Emily C   Days Worked: 7   Normal Pay: 2450.0   Bonus Pay: 2250.0   Working: Employed
+Name: SP: IN: Michelle O   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 0.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car1   Cost: 11613.915059637638   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car5   Cost: 15539.13761814931   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Car6   Cost: 11809.954773603267   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Performance Cars:
+
+Name: PC5   Cost: 18687.416242226107   Sales Price: 74749.66496890443   Condition: Broken   Cleanliness: dirty   Sold: In Stock
+Name: PC2   Cost: 29056.76194029685   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC3   Cost: 21840.593075323   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup7   Cost: 15530.180463325081   Sales Price: 62120.721853300325   Condition: Broken   Cleanliness: dirty   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup6   Cost: 21234.83573887463   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 481400.9723468695
+Daily Sales: 125670
+Day Number: 7
+IN: David O has made a dirty car clean!
+IN: David O has made a dirty car sparkling!
+IN: Carter C has made a clean car dirty!
+IN: Matt A has made a clean car dirty!
+MC: Diane N has made a broken car used!
+MC: IN: Jaden Q has made a broken car used!
+MC: Diane N has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: David O   Days Worked: 8   Normal Pay: 2000.0   Bonus Pay: 200.0   Working: Employed
+Name: IN: Carter C   Days Worked: 5   Normal Pay: 1250.0   Bonus Pay: 350.0   Working: Employed
+Name: IN: Sarah N   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Matt A   Days Worked: 4   Normal Pay: 1000.0   Bonus Pay: 550.0   Working: Employed
+Name: MC: IN: Jaden Q   Days Worked: 6   Normal Pay: 1700.0   Bonus Pay: 950.0   Working: Employed
+Name: MC: Katherine I   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 600.0   Working: Employed
+
+Sales People:
+
+Name: SP: Brittany N   Days Worked: 8   Normal Pay: 2800.0   Bonus Pay: 2000.0   Working: Employed
+Name: SP: Emily C   Days Worked: 8   Normal Pay: 2800.0   Bonus Pay: 2250.0   Working: Employed
+Name: SP: IN: Michelle O   Days Worked: 8   Normal Pay: 2300.0   Bonus Pay: 0.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car1   Cost: 11613.915059637638   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car5   Cost: 15539.13761814931   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Car6   Cost: 11809.954773603267   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+
+Performance Cars:
+
+Name: PC5   Cost: 28031.12436333916   Sales Price: 74749.66496890443   Condition: Used   Cleanliness: dirty   Sold: In Stock
+Name: PC2   Cost: 29056.76194029685   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC3   Cost: 21840.593075323   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup7   Cost: 23295.270694987623   Sales Price: 62120.721853300325   Condition: Used   Cleanliness: dirty   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup6   Cost: 21234.83573887463   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 478700.9723468695
+Daily Sales: 0
+Day Number: 8
+IN: David O has made a dirty car clean!
+IN: David O has made a dirty car clean!
+IN: Carter C has made a dirty car clean!
+IN: Carter C has made a dirty car clean!
+IN: Sarah N has made a clean car dirty!
+MC: IN: Matt A has made a used car like new!
+MC: IN: Matt A has made a used car like new!
+SP: Emily C has sold a performance car!
+IN: David O has quit!
+SP: Emily C has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Paige W   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Carter C   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 350.0   Working: Employed
+Name: IN: Sarah N   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Matt A   Days Worked: 5   Normal Pay: 1300.0   Bonus Pay: 1250.0   Working: Employed
+Name: MC: IN: Jaden Q   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 950.0   Working: Employed
+Name: MC: Katherine I   Days Worked: 9   Normal Pay: 2700.0   Bonus Pay: 600.0   Working: Employed
+
+Sales People:
+
+Name: SP: Brittany N   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 2000.0   Working: Employed
+Name: SP: IN: Paige P   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+Name: SP: IN: Michelle O   Days Worked: 9   Normal Pay: 2600.0   Bonus Pay: 0.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car1   Cost: 11613.915059637638   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car5   Cost: 15539.13761814931   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Car6   Cost: 11809.954773603267   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Performance Cars:
+
+Name: PC6   Cost: 13473.949571056739   Sales Price: 53895.798284226956   Condition: Broken   Cleanliness: clean   Sold: In Stock
+Name: PC2   Cost: 29056.76194029685   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC3   Cost: 21840.593075323   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup7   Cost: 29119.088368734527   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup6   Cost: 21234.83573887463   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 537276.6877447171
+Daily Sales: 74749
+Day Number: 9
+IN: Paige W has made a dirty car sparkling!
+IN: Carter C has made a dirty car clean!
+IN: Carter C has made a clean car sparkling!
+MC: IN: Matt A has made a broken car used!
+SP: IN: Paige P has sold a pickup truck!
+IN: Carter C has quit!
+MC: IN: Matt A has quit!
+SP: Brittany N has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Paige W   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Employed
+Name: IN: Daniel T   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Sarah N   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Jaden C   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+Name: MC: IN: Jaden Q   Days Worked: 8   Normal Pay: 2300.0   Bonus Pay: 950.0   Working: Employed
+Name: MC: Katherine I   Days Worked: 10   Normal Pay: 3000.0   Bonus Pay: 600.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Michelle K   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+Name: SP: IN: Paige P   Days Worked: 1   Normal Pay: 300.0   Bonus Pay: 750.0   Working: Employed
+Name: SP: IN: Michelle O   Days Worked: 10   Normal Pay: 2900.0   Bonus Pay: 0.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car1   Cost: 11613.915059637638   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car5   Cost: 15539.13761814931   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Car6   Cost: 11809.954773603267   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Performance Cars:
+
+Name: PC6   Cost: 20210.924356585107   Sales Price: 53895.798284226956   Condition: Used   Cleanliness: dirty   Sold: In Stock
+Name: PC2   Cost: 29056.76194029685   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC3   Cost: 21840.593075323   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup8   Cost: 12962.760619194556   Sales Price: 51851.042476778224   Condition: Broken   Cleanliness: dirty   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup6   Cost: 21234.83573887463   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 583734.6489788229
+Daily Sales: 62120
+Day Number: 10
+IN: Paige W has made a dirty car clean!
+IN: Paige W has made a dirty car clean!
+MC: IN: Jaden C has made a used car like new!
+MC: IN: Jaden C has made a broken car used!
+SP: IN: Paige P has sold a car!
+SP: IN: Paige P has sold a car!
+SP: IN: Paige P has quit!
+SP: IN: Michelle O has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Katherine C   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Daniel T   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Carter Z   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Jaden C   Days Worked: 1   Normal Pay: 300.0   Bonus Pay: 700.0   Working: Employed
+Name: MC: IN: Jaden Q   Days Worked: 9   Normal Pay: 2600.0   Bonus Pay: 950.0   Working: Employed
+Name: MC: Katherine I   Days Worked: 11   Normal Pay: 3300.0   Bonus Pay: 600.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Michelle K   Days Worked: 1   Normal Pay: 300.0   Bonus Pay: 0.0   Working: Employed
+Name: SP: IN: Paige W   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 100.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 0.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car1   Cost: 11613.915059637638   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car7   Cost: 12555.800118724652   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Car8   Cost: 13606.413928857746   Sales Price: 34016.034822144364   Condition: Used   Cleanliness: dirty   Sold: In Stock
+
+Performance Cars:
+
+Name: PC6   Cost: 25263.655445731383   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: PC2   Cost: 29056.76194029685   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC3   Cost: 21840.593075323   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup8   Cost: 19444.140928791836   Sales Price: 51851.042476778224   Condition: Used   Cleanliness: dirty   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup6   Cost: 21234.83573887463   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 613217.1653669793
+Daily Sales: 58344
+Day Number: 11
+IN: Katherine C has made a dirty car clean!
+IN: Daniel T has made a dirty car clean!
+IN: Carter Z has made a dirty car clean!
+MC: IN: Jaden C has made a used car like new!
+MC: IN: Jaden Q has made a used car like new!
+SP: IN: Sarah N has sold a car!
+IN: Carter Z has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Katherine C   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Daniel T   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Luke E   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Jaden C   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 900.0   Working: Employed
+Name: MC: IN: Jaden Q   Days Worked: 10   Normal Pay: 2900.0   Bonus Pay: 1250.0   Working: Employed
+Name: MC: Katherine I   Days Worked: 12   Normal Pay: 3600.0   Bonus Pay: 600.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Michelle K   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 0.0   Working: Employed
+Name: SP: IN: Paige W   Days Worked: 3   Normal Pay: 800.0   Bonus Pay: 100.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 4   Normal Pay: 1050.0   Bonus Pay: 500.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car1   Cost: 11613.915059637638   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car7   Cost: 12555.800118724652   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Car9   Cost: 12644.757833396481   Sales Price: 31611.8945834912   Condition: Used   Cleanliness: clean   Sold: In Stock
+
+Performance Cars:
+
+Name: PC6   Cost: 25263.655445731383   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC2   Cost: 29056.76194029685   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC3   Cost: 21840.593075323   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup8   Cost: 24305.176160989795   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup6   Cost: 21234.83573887463   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 631888.4423557272
+Daily Sales: 34016
+Day Number: 12
+IN: Katherine C has made a dirty car clean!
+IN: Daniel T has made a dirty car clean!
+IN: Luke E has made a clean car sparkling!
+MC: IN: Jaden C has made a used car like new!
+SP: IN: Sarah N has sold a car!
+IN: Luke E has quit!
+SP: IN: Michelle K has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Katherine C   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Daniel T   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Daniel A   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Jaden C   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 1100.0   Working: Employed
+Name: MC: IN: Jaden Q   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 1250.0   Working: Employed
+Name: MC: Katherine I   Days Worked: 13   Normal Pay: 3900.0   Bonus Pay: 600.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Ryan A   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+Name: SP: IN: Paige W   Days Worked: 4   Normal Pay: 1100.0   Bonus Pay: 100.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 5   Normal Pay: 1350.0   Bonus Pay: 1000.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Luke E   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: SP: IN: Michelle K   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 0.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car1   Cost: 11613.915059637638   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car7   Cost: 12555.800118724652   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Car10   Cost: 5196.702192854808   Sales Price: 20786.808771419233   Condition: Broken   Cleanliness: clean   Sold: In Stock
+
+Performance Cars:
+
+Name: PC6   Cost: 25263.655445731383   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC2   Cost: 29056.76194029685   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC3   Cost: 21840.593075323   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup8   Cost: 24305.176160989795   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup6   Cost: 21234.83573887463   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car9   Cost: 17386.542020920162   Sales Price: 31611.8945834912   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 655603.6347463636
+Daily Sales: 31611
+Day Number: 13
+IN: Daniel T has made a clean car sparkling!
+MC: IN: Jaden C has made a broken car used!
+SP: IN: Sarah N has sold a pickup truck!
+SP: IN: Ryan A has sold a performance car!
+MC: Katherine I has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Luke B   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Daniel T   Days Worked: 4   Normal Pay: 1000.0   Bonus Pay: 200.0   Working: Employed
+Name: IN: Daniel A   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Jaden C   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1300.0   Working: Employed
+Name: MC: IN: Jaden Q   Days Worked: 12   Normal Pay: 3500.0   Bonus Pay: 1250.0   Working: Employed
+Name: MC: IN: Katherine C   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 0.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Ryan A   Days Worked: 1   Normal Pay: 300.0   Bonus Pay: 1000.0   Working: Employed
+Name: SP: IN: Paige W   Days Worked: 5   Normal Pay: 1400.0   Bonus Pay: 100.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 6   Normal Pay: 1650.0   Bonus Pay: 1750.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Luke E   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: SP: IN: Michelle K   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: Katherine I   Days Worked: 14   Normal Pay: 4200.0   Bonus Pay: 600.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car1   Cost: 11613.915059637638   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car7   Cost: 12555.800118724652   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Car10   Cost: 7795.053289282212   Sales Price: 20786.808771419233   Condition: Used   Cleanliness: dirty   Sold: In Stock
+
+Performance Cars:
+
+Name: PC6   Cost: 25263.655445731383   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC7   Cost: 17171.748659010536   Sales Price: 68686.99463604215   Condition: Broken   Cleanliness: dirty   Sold: In Stock
+Name: PC3   Cost: 21840.593075323   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup9   Cost: 23839.684269760153   Sales Price: 47679.36853952031   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup6   Cost: 21234.83573887463   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car9   Cost: 17386.542020920162   Sales Price: 31611.8945834912   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup8   Cost: 26735.693777088778   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC2   Cost: 35158.68194775919   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 721856.7681749649
+Daily Sales: 109964
+Day Number: 14
+IN: Luke B has made a dirty car clean!
+IN: Daniel T has made a dirty car clean!
+MC: IN: Jaden C has made a broken car used!
+MC: IN: Jaden Q has made a used car like new!
+SP: IN: Ryan A has sold a performance car!
+SP: IN: Paige W has sold a car!
+IN: Daniel A has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Luke B   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Daniel T   Days Worked: 5   Normal Pay: 1250.0   Bonus Pay: 200.0   Working: Employed
+Name: IN: Jaden A   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Jaden C   Days Worked: 5   Normal Pay: 1500.0   Bonus Pay: 1700.0   Working: Employed
+Name: MC: IN: Jaden Q   Days Worked: 13   Normal Pay: 3800.0   Bonus Pay: 1450.0   Working: Employed
+Name: MC: IN: Katherine C   Days Worked: 4   Normal Pay: 1050.0   Bonus Pay: 0.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Ryan A   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 2000.0   Working: Employed
+Name: SP: IN: Paige W   Days Worked: 6   Normal Pay: 1700.0   Bonus Pay: 600.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 7   Normal Pay: 1950.0   Bonus Pay: 1750.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Luke E   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: SP: IN: Michelle K   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: Katherine I   Days Worked: 14   Normal Pay: 4200.0   Bonus Pay: 600.0   Working: Quit
+Name: IN: Daniel A   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car1   Cost: 11613.915059637638   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car11   Cost: 16490.48378997767   Sales Price: 32980.96757995534   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Car10   Cost: 9743.816611602764   Sales Price: 20786.808771419233   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+
+Performance Cars:
+
+Name: PC6   Cost: 25263.655445731383   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC8   Cost: 11058.12168476522   Sales Price: 44232.48673906088   Condition: Broken   Cleanliness: clean   Sold: In Stock
+Name: PC3   Cost: 21840.593075323   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup9   Cost: 23839.684269760153   Sales Price: 47679.36853952031   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup6   Cost: 21234.83573887463   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car9   Cost: 17386.542020920162   Sales Price: 31611.8945834912   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup8   Cost: 26735.693777088778   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC2   Cost: 35158.68194775919   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC7   Cost: 25757.622988515803   Sales Price: 68686.99463604215   Condition: Used   Cleanliness: dirty   Sold: Sold
+Name: Car7   Cost: 13811.380130597117   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 785406.7575737135
+Daily Sales: 93797
+Day Number: 15
+IN: Luke B has made a dirty car sparkling!
+IN: Daniel T has made a clean car sparkling!
+MC: IN: Jaden C has made a broken car used!
+SP: IN: Paige W has sold a car!
+IN: Daniel T has quit!
+SP: IN: Paige W has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Luke B   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 100.0   Working: Employed
+Name: IN: Carter K   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Jaden A   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Jaden C   Days Worked: 6   Normal Pay: 1800.0   Bonus Pay: 2100.0   Working: Employed
+Name: MC: IN: Jaden Q   Days Worked: 14   Normal Pay: 4100.0   Bonus Pay: 1450.0   Working: Employed
+Name: MC: IN: Katherine C   Days Worked: 5   Normal Pay: 1350.0   Bonus Pay: 0.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Ryan A   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 2000.0   Working: Employed
+Name: SP: IN: John S   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 8   Normal Pay: 2250.0   Bonus Pay: 1750.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Luke E   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: SP: IN: Michelle K   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: Katherine I   Days Worked: 14   Normal Pay: 4200.0   Bonus Pay: 600.0   Working: Quit
+Name: IN: Daniel A   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Daniel T   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 300.0   Working: Quit
+Name: SP: IN: Paige W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 1100.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car1   Cost: 11613.915059637638   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car12   Cost: 15382.401766157984   Sales Price: 38456.00441539496   Condition: Used   Cleanliness: dirty   Sold: In Stock
+Name: Car10   Cost: 9743.816611602764   Sales Price: 20786.808771419233   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Performance Cars:
+
+Name: PC6   Cost: 25263.655445731383   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC8   Cost: 16587.18252714783   Sales Price: 44232.48673906088   Condition: Used   Cleanliness: dirty   Sold: In Stock
+Name: PC3   Cost: 21840.593075323   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup9   Cost: 23839.684269760153   Sales Price: 47679.36853952031   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup6   Cost: 21234.83573887463   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car9   Cost: 17386.542020920162   Sales Price: 31611.8945834912   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup8   Cost: 26735.693777088778   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC2   Cost: 35158.68194775919   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC7   Cost: 25757.622988515803   Sales Price: 68686.99463604215   Condition: Used   Cleanliness: dirty   Sold: Sold
+Name: Car7   Cost: 13811.380130597117   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car11   Cost: 19953.485385872984   Sales Price: 32980.96757995534   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 800305.323387511
+Daily Sales: 32980
+Day Number: 16
+IN: Luke B has made a dirty car clean!
+IN: Luke B has made a dirty car clean!
+IN: Carter K has made a clean car sparkling!
+MC: IN: Jaden C has made a used car like new!
+MC: IN: Jaden C has made a used car like new!
+SP: IN: Ryan A has sold a car!
+SP: IN: Sarah N has sold a pickup truck!
+MC: IN: Jaden Q has quit!
+SP: IN: Ryan A has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Luke B   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 100.0   Working: Employed
+Name: IN: Carter K   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 200.0   Working: Employed
+Name: IN: Daniel L   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Jaden C   Days Worked: 7   Normal Pay: 2100.0   Bonus Pay: 2700.0   Working: Employed
+Name: MC: IN: Jaden A   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Employed
+Name: MC: IN: Katherine C   Days Worked: 6   Normal Pay: 1650.0   Bonus Pay: 0.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Shane O   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+Name: SP: IN: John S   Days Worked: 1   Normal Pay: 300.0   Bonus Pay: 0.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 9   Normal Pay: 2550.0   Bonus Pay: 2500.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Luke E   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: SP: IN: Michelle K   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: Katherine I   Days Worked: 14   Normal Pay: 4200.0   Bonus Pay: 600.0   Working: Quit
+Name: IN: Daniel A   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Daniel T   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 300.0   Working: Quit
+Name: SP: IN: Paige W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: IN: Jaden Q   Days Worked: 15   Normal Pay: 4400.0   Bonus Pay: 1450.0   Working: Quit
+Name: SP: IN: Ryan A   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 2500.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car1   Cost: 11613.915059637638   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car13   Cost: 12628.315534351106   Sales Price: 31570.788835877764   Condition: Used   Cleanliness: clean   Sold: In Stock
+Name: Car10   Cost: 9743.816611602764   Sales Price: 20786.808771419233   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Performance Cars:
+
+Name: PC6   Cost: 25263.655445731383   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC8   Cost: 20733.978158934788   Sales Price: 44232.48673906088   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: PC3   Cost: 21840.593075323   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup10   Cost: 23636.316544620357   Sales Price: 47272.63308924071   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup6   Cost: 21234.83573887463   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car9   Cost: 17386.542020920162   Sales Price: 31611.8945834912   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup8   Cost: 26735.693777088778   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC2   Cost: 35158.68194775919   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC7   Cost: 25757.622988515803   Sales Price: 68686.99463604215   Condition: Used   Cleanliness: dirty   Sold: Sold
+Name: Car7   Cost: 13811.380130597117   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car11   Cost: 19953.485385872984   Sales Price: 32980.96757995534   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car12   Cost: 21150.80242846723   Sales Price: 38456.00441539496   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup9   Cost: 28846.017966409792   Sales Price: 47679.36853952031   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 847476.0642634548
+Daily Sales: 86135
+Day Number: 17
+IN: Luke B has made a dirty car sparkling!
+IN: Luke B has made a clean car sparkling!
+IN: Carter K has made a clean car sparkling!
+MC: IN: Jaden C has made a used car like new!
+SP: IN: John S has sold a car!
+SP: IN: Shane O has sold a performance car!
+SP: IN: Sarah N has sold a car!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Luke B   Days Worked: 4   Normal Pay: 1000.0   Bonus Pay: 450.0   Working: Employed
+Name: IN: Carter K   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 300.0   Working: Employed
+Name: IN: Daniel L   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Jaden C   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2900.0   Working: Employed
+Name: MC: IN: Jaden A   Days Worked: 3   Normal Pay: 800.0   Bonus Pay: 0.0   Working: Employed
+Name: MC: IN: Katherine C   Days Worked: 7   Normal Pay: 1950.0   Bonus Pay: 0.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Shane O   Days Worked: 1   Normal Pay: 300.0   Bonus Pay: 1000.0   Working: Employed
+Name: SP: IN: John S   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 500.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 10   Normal Pay: 2850.0   Bonus Pay: 3000.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Luke E   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: SP: IN: Michelle K   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: Katherine I   Days Worked: 14   Normal Pay: 4200.0   Bonus Pay: 600.0   Working: Quit
+Name: IN: Daniel A   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Daniel T   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 300.0   Working: Quit
+Name: SP: IN: Paige W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: IN: Jaden Q   Days Worked: 15   Normal Pay: 4400.0   Bonus Pay: 1450.0   Working: Quit
+Name: SP: IN: Ryan A   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 2500.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car15   Cost: 14849.075690592099   Sales Price: 37122.689226480245   Condition: Used   Cleanliness: clean   Sold: In Stock
+Name: Car14   Cost: 10350.139249945709   Sales Price: 25875.34812486427   Condition: Used   Cleanliness: clean   Sold: In Stock
+Name: Car10   Cost: 9743.816611602764   Sales Price: 20786.808771419233   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Performance Cars:
+
+Name: PC9   Cost: 11745.625819163044   Sales Price: 46982.503276652176   Condition: Broken   Cleanliness: dirty   Sold: In Stock
+Name: PC8   Cost: 20733.978158934788   Sales Price: 44232.48673906088   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC3   Cost: 21840.593075323   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup10   Cost: 23636.316544620357   Sales Price: 47272.63308924071   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup6   Cost: 21234.83573887463   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car9   Cost: 17386.542020920162   Sales Price: 31611.8945834912   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup8   Cost: 26735.693777088778   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC2   Cost: 35158.68194775919   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC7   Cost: 25757.622988515803   Sales Price: 68686.99463604215   Condition: Used   Cleanliness: dirty   Sold: Sold
+Name: Car7   Cost: 13811.380130597117   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car11   Cost: 19953.485385872984   Sales Price: 32980.96757995534   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car12   Cost: 21150.80242846723   Sales Price: 38456.00441539496   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup9   Cost: 28846.017966409792   Sales Price: 47679.36853952031   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car13   Cost: 17363.93385973277   Sales Price: 31570.788835877764   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: PC6   Cost: 30569.02308933498   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car1   Cost: 14052.837222161546   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 916525.6407431338
+Daily Sales: 108692
+Day Number: 18
+IN: Luke B has made a dirty car clean!
+IN: Carter K has made a clean car sparkling!
+IN: Daniel L has made a clean car sparkling!
+MC: IN: Jaden C has made a broken car used!
+MC: IN: Jaden A has made a used car like new!
+MC: IN: Jaden A has made a used car like new!
+SP: IN: John S has sold a performance car!
+SP: IN: John S has sold a pickup truck!
+SP: IN: John S has sold a pickup truck!
+IN: Luke B has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: John W   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Carter K   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 400.0   Working: Employed
+Name: IN: Daniel L   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 100.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Jaden C   Days Worked: 9   Normal Pay: 2700.0   Bonus Pay: 3300.0   Working: Employed
+Name: MC: IN: Jaden A   Days Worked: 4   Normal Pay: 1100.0   Bonus Pay: 400.0   Working: Employed
+Name: MC: IN: Katherine C   Days Worked: 8   Normal Pay: 2250.0   Bonus Pay: 0.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Shane O   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1000.0   Working: Employed
+Name: SP: IN: John S   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 3000.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 11   Normal Pay: 3150.0   Bonus Pay: 3000.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Luke E   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: SP: IN: Michelle K   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: Katherine I   Days Worked: 14   Normal Pay: 4200.0   Bonus Pay: 600.0   Working: Quit
+Name: IN: Daniel A   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Daniel T   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 300.0   Working: Quit
+Name: SP: IN: Paige W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: IN: Jaden Q   Days Worked: 15   Normal Pay: 4400.0   Bonus Pay: 1450.0   Working: Quit
+Name: SP: IN: Ryan A   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: Luke B   Days Worked: 5   Normal Pay: 1250.0   Bonus Pay: 450.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car15   Cost: 18561.344613240122   Sales Price: 37122.689226480245   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Car14   Cost: 12937.674062432136   Sales Price: 25875.34812486427   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Car10   Cost: 9743.816611602764   Sales Price: 20786.808771419233   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Performance Cars:
+
+Name: PC9   Cost: 17618.438728744564   Sales Price: 46982.503276652176   Condition: Used   Cleanliness: dirty   Sold: In Stock
+Name: PC8   Cost: 20733.978158934788   Sales Price: 44232.48673906088   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC10   Cost: 27379.936044308928   Sales Price: 54759.872088617856   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup11   Cost: 9652.259828988048   Sales Price: 38609.03931595219   Condition: Broken   Cleanliness: clean   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup12   Cost: 13520.635851303181   Sales Price: 33801.58962825795   Condition: Used   Cleanliness: dirty   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car9   Cost: 17386.542020920162   Sales Price: 31611.8945834912   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup8   Cost: 26735.693777088778   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC2   Cost: 35158.68194775919   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC7   Cost: 25757.622988515803   Sales Price: 68686.99463604215   Condition: Used   Cleanliness: dirty   Sold: Sold
+Name: Car7   Cost: 13811.380130597117   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car11   Cost: 19953.485385872984   Sales Price: 32980.96757995534   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car12   Cost: 21150.80242846723   Sales Price: 38456.00441539496   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup9   Cost: 28846.017966409792   Sales Price: 47679.36853952031   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car13   Cost: 17363.93385973277   Sales Price: 31570.788835877764   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: PC6   Cost: 30569.02308933498   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car1   Cost: 14052.837222161546   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC3   Cost: 26427.11762114083   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup10   Cost: 28599.943018990638   Sales Price: 47272.63308924071   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup6   Cost: 25694.151244038305   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 999608.3788128794
+Daily Sales: 136334
+Day Number: 19
+IN: John W has made a dirty car sparkling!
+IN: John W has made a dirty car clean!
+IN: Carter K has made a dirty car clean!
+IN: Carter K has made a dirty car clean!
+IN: Daniel L has made a dirty car clean!
+MC: IN: Jaden C has made a broken car used!
+MC: IN: Jaden C has made a used car like new!
+MC: IN: Jaden A has made a used car like new!
+SP: IN: John S has sold a car!
+SP: IN: Shane O has sold a car!
+MC: IN: Jaden C has quit!
+MC: IN: Katherine C has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: John W   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Employed
+Name: IN: Carter K   Days Worked: 4   Normal Pay: 1000.0   Bonus Pay: 400.0   Working: Employed
+Name: IN: Sarah W   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Daniel L   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 100.0   Working: Employed
+Name: MC: IN: Jaden A   Days Worked: 5   Normal Pay: 1400.0   Bonus Pay: 800.0   Working: Employed
+Name: MC: IN: Max H   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Shane O   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 1500.0   Working: Employed
+Name: SP: IN: John S   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 3500.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 12   Normal Pay: 3450.0   Bonus Pay: 3000.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Luke E   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: SP: IN: Michelle K   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: Katherine I   Days Worked: 14   Normal Pay: 4200.0   Bonus Pay: 600.0   Working: Quit
+Name: IN: Daniel A   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Daniel T   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 300.0   Working: Quit
+Name: SP: IN: Paige W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: IN: Jaden Q   Days Worked: 15   Normal Pay: 4400.0   Bonus Pay: 1450.0   Working: Quit
+Name: SP: IN: Ryan A   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: Luke B   Days Worked: 5   Normal Pay: 1250.0   Bonus Pay: 450.0   Working: Quit
+Name: MC: IN: Jaden C   Days Worked: 10   Normal Pay: 3000.0   Bonus Pay: 3900.0   Working: Quit
+Name: MC: IN: Katherine C   Days Worked: 9   Normal Pay: 2550.0   Bonus Pay: 0.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car16   Cost: 10000.409635616013   Sales Price: 20000.819271232027   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Car17   Cost: 5740.903779796347   Sales Price: 22963.61511918539   Condition: Broken   Cleanliness: sparkling   Sold: In Stock
+Name: Car10   Cost: 9743.816611602764   Sales Price: 20786.808771419233   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Performance Cars:
+
+Name: PC9   Cost: 22023.048410930707   Sales Price: 46982.503276652176   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: PC8   Cost: 20733.978158934788   Sales Price: 44232.48673906088   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC10   Cost: 27379.936044308928   Sales Price: 54759.872088617856   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup11   Cost: 14478.389743482072   Sales Price: 38609.03931595219   Condition: Used   Cleanliness: dirty   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup12   Cost: 16900.794814128974   Sales Price: 33801.58962825795   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car9   Cost: 17386.542020920162   Sales Price: 31611.8945834912   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup8   Cost: 26735.693777088778   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC2   Cost: 35158.68194775919   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC7   Cost: 25757.622988515803   Sales Price: 68686.99463604215   Condition: Used   Cleanliness: dirty   Sold: Sold
+Name: Car7   Cost: 13811.380130597117   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car11   Cost: 19953.485385872984   Sales Price: 32980.96757995534   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car12   Cost: 21150.80242846723   Sales Price: 38456.00441539496   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup9   Cost: 28846.017966409792   Sales Price: 47679.36853952031   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car13   Cost: 17363.93385973277   Sales Price: 31570.788835877764   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: PC6   Cost: 30569.02308933498   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car1   Cost: 14052.837222161546   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC3   Cost: 26427.11762114083   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup10   Cost: 28599.943018990638   Sales Price: 47272.63308924071   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup6   Cost: 25694.151244038305   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car15   Cost: 20417.479074564137   Sales Price: 37122.689226480245   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car14   Cost: 15654.585615542886   Sales Price: 25875.34812486427   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 1044165.1027488115
+Daily Sales: 62997
+Day Number: 20
+IN: John W has made a dirty car clean!
+IN: John W has made a dirty car sparkling!
+IN: Carter K has made a dirty car clean!
+MC: IN: Daniel L has made a used car like new!
+MC: IN: Jaden A has made a broken car used!
+SP: IN: John S has sold a car!
+MC: IN: Jaden A has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Jeff R   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Carter K   Days Worked: 5   Normal Pay: 1250.0   Bonus Pay: 400.0   Working: Employed
+Name: IN: Sarah W   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Daniel L   Days Worked: 4   Normal Pay: 1050.0   Bonus Pay: 400.0   Working: Employed
+Name: MC: IN: John W   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 250.0   Working: Employed
+Name: MC: IN: Max H   Days Worked: 1   Normal Pay: 300.0   Bonus Pay: 0.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Shane O   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1500.0   Working: Employed
+Name: SP: IN: John S   Days Worked: 5   Normal Pay: 1500.0   Bonus Pay: 4000.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 13   Normal Pay: 3750.0   Bonus Pay: 3000.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Luke E   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: SP: IN: Michelle K   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: Katherine I   Days Worked: 14   Normal Pay: 4200.0   Bonus Pay: 600.0   Working: Quit
+Name: IN: Daniel A   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Daniel T   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 300.0   Working: Quit
+Name: SP: IN: Paige W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: IN: Jaden Q   Days Worked: 15   Normal Pay: 4400.0   Bonus Pay: 1450.0   Working: Quit
+Name: SP: IN: Ryan A   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: Luke B   Days Worked: 5   Normal Pay: 1250.0   Bonus Pay: 450.0   Working: Quit
+Name: MC: IN: Jaden C   Days Worked: 10   Normal Pay: 3000.0   Bonus Pay: 3900.0   Working: Quit
+Name: MC: IN: Katherine C   Days Worked: 9   Normal Pay: 2550.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: IN: Jaden A   Days Worked: 6   Normal Pay: 1700.0   Bonus Pay: 1000.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car18   Cost: 13538.928332617315   Sales Price: 27077.85666523463   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Car17   Cost: 8611.355669694522   Sales Price: 22963.61511918539   Condition: Used   Cleanliness: dirty   Sold: In Stock
+Name: Car10   Cost: 9743.816611602764   Sales Price: 20786.808771419233   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Performance Cars:
+
+Name: PC9   Cost: 22023.048410930707   Sales Price: 46982.503276652176   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC8   Cost: 20733.978158934788   Sales Price: 44232.48673906088   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC10   Cost: 27379.936044308928   Sales Price: 54759.872088617856   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup11   Cost: 18097.98717935259   Sales Price: 38609.03931595219   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Pickup2   Cost: 20741.319459313483   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup12   Cost: 16900.794814128974   Sales Price: 33801.58962825795   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car9   Cost: 17386.542020920162   Sales Price: 31611.8945834912   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup8   Cost: 26735.693777088778   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC2   Cost: 35158.68194775919   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC7   Cost: 25757.622988515803   Sales Price: 68686.99463604215   Condition: Used   Cleanliness: dirty   Sold: Sold
+Name: Car7   Cost: 13811.380130597117   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car11   Cost: 19953.485385872984   Sales Price: 32980.96757995534   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car12   Cost: 21150.80242846723   Sales Price: 38456.00441539496   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup9   Cost: 28846.017966409792   Sales Price: 47679.36853952031   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car13   Cost: 17363.93385973277   Sales Price: 31570.788835877764   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: PC6   Cost: 30569.02308933498   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car1   Cost: 14052.837222161546   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC3   Cost: 26427.11762114083   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup10   Cost: 28599.943018990638   Sales Price: 47272.63308924071   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup6   Cost: 25694.151244038305   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car15   Cost: 20417.479074564137   Sales Price: 37122.689226480245   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car14   Cost: 15654.585615542886   Sales Price: 25875.34812486427   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car16   Cost: 11000.450599177615   Sales Price: 20000.819271232027   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 1047926.9936874262
+Daily Sales: 20000
+Day Number: 21
+IN: Jeff R has made a dirty car clean!
+IN: Jeff R has made a dirty car clean!
+IN: Carter K has made a dirty car clean!
+IN: Sarah W has made a clean car sparkling!
+MC: IN: Daniel L has made a used car like new!
+SP: IN: Shane O has sold a pickup truck!
+SP: IN: Sarah N has sold a car!
+MC: IN: Max H has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Jeff R   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Carter K   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 400.0   Working: Employed
+Name: IN: Brittany V   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Daniel L   Days Worked: 5   Normal Pay: 1350.0   Bonus Pay: 600.0   Working: Employed
+Name: MC: IN: John W   Days Worked: 3   Normal Pay: 800.0   Bonus Pay: 250.0   Working: Employed
+Name: MC: IN: Sarah W   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 200.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Shane O   Days Worked: 5   Normal Pay: 1500.0   Bonus Pay: 2250.0   Working: Employed
+Name: SP: IN: John S   Days Worked: 6   Normal Pay: 1800.0   Bonus Pay: 4000.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 14   Normal Pay: 4050.0   Bonus Pay: 3500.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Luke E   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: SP: IN: Michelle K   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: Katherine I   Days Worked: 14   Normal Pay: 4200.0   Bonus Pay: 600.0   Working: Quit
+Name: IN: Daniel A   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Daniel T   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 300.0   Working: Quit
+Name: SP: IN: Paige W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: IN: Jaden Q   Days Worked: 15   Normal Pay: 4400.0   Bonus Pay: 1450.0   Working: Quit
+Name: SP: IN: Ryan A   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: Luke B   Days Worked: 5   Normal Pay: 1250.0   Bonus Pay: 450.0   Working: Quit
+Name: MC: IN: Jaden C   Days Worked: 10   Normal Pay: 3000.0   Bonus Pay: 3900.0   Working: Quit
+Name: MC: IN: Katherine C   Days Worked: 9   Normal Pay: 2550.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: IN: Jaden A   Days Worked: 6   Normal Pay: 1700.0   Bonus Pay: 1000.0   Working: Quit
+Name: MC: IN: Max H   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 0.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car19   Cost: 12624.694353829702   Sales Price: 25249.388707659404   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Car17   Cost: 10764.194587118152   Sales Price: 22963.61511918539   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Car10   Cost: 9743.816611602764   Sales Price: 20786.808771419233   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Performance Cars:
+
+Name: PC9   Cost: 22023.048410930707   Sales Price: 46982.503276652176   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC8   Cost: 20733.978158934788   Sales Price: 44232.48673906088   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC10   Cost: 27379.936044308928   Sales Price: 54759.872088617856   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup11   Cost: 18097.98717935259   Sales Price: 38609.03931595219   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Pickup13   Cost: 21853.53973060815   Sales Price: 54633.84932652037   Condition: Used   Cleanliness: dirty   Sold: In Stock
+Name: Pickup12   Cost: 16900.794814128974   Sales Price: 33801.58962825795   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car9   Cost: 17386.542020920162   Sales Price: 31611.8945834912   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup8   Cost: 26735.693777088778   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC2   Cost: 35158.68194775919   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC7   Cost: 25757.622988515803   Sales Price: 68686.99463604215   Condition: Used   Cleanliness: dirty   Sold: Sold
+Name: Car7   Cost: 13811.380130597117   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car11   Cost: 19953.485385872984   Sales Price: 32980.96757995534   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car12   Cost: 21150.80242846723   Sales Price: 38456.00441539496   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup9   Cost: 28846.017966409792   Sales Price: 47679.36853952031   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car13   Cost: 17363.93385973277   Sales Price: 31570.788835877764   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: PC6   Cost: 30569.02308933498   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car1   Cost: 14052.837222161546   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC3   Cost: 26427.11762114083   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup10   Cost: 28599.943018990638   Sales Price: 47272.63308924071   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup6   Cost: 25694.151244038305   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car15   Cost: 20417.479074564137   Sales Price: 37122.689226480245   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car14   Cost: 15654.585615542886   Sales Price: 25875.34812486427   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car16   Cost: 11000.450599177615   Sales Price: 20000.819271232027   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup2   Cost: 25096.996545769318   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car18   Cost: 14892.821165879048   Sales Price: 27077.85666523463   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 1079309.25518685
+Daily Sales: 68559
+Day Number: 22
+IN: Jeff R has made a dirty car clean!
+IN: Jeff R has made a dirty car clean!
+IN: Carter K has made a dirty car clean!
+MC: IN: Daniel L has made a used car like new!
+IN: Brittany V has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Jeff R   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Carter K   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 400.0   Working: Employed
+Name: IN: Matt K   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Daniel L   Days Worked: 6   Normal Pay: 1650.0   Bonus Pay: 900.0   Working: Employed
+Name: MC: IN: John W   Days Worked: 4   Normal Pay: 1100.0   Bonus Pay: 250.0   Working: Employed
+Name: MC: IN: Sarah W   Days Worked: 3   Normal Pay: 800.0   Bonus Pay: 200.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Shane O   Days Worked: 6   Normal Pay: 1800.0   Bonus Pay: 2250.0   Working: Employed
+Name: SP: IN: John S   Days Worked: 7   Normal Pay: 2100.0   Bonus Pay: 4000.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 15   Normal Pay: 4350.0   Bonus Pay: 3500.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Luke E   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: SP: IN: Michelle K   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: Katherine I   Days Worked: 14   Normal Pay: 4200.0   Bonus Pay: 600.0   Working: Quit
+Name: IN: Daniel A   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Daniel T   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 300.0   Working: Quit
+Name: SP: IN: Paige W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: IN: Jaden Q   Days Worked: 15   Normal Pay: 4400.0   Bonus Pay: 1450.0   Working: Quit
+Name: SP: IN: Ryan A   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: Luke B   Days Worked: 5   Normal Pay: 1250.0   Bonus Pay: 450.0   Working: Quit
+Name: MC: IN: Jaden C   Days Worked: 10   Normal Pay: 3000.0   Bonus Pay: 3900.0   Working: Quit
+Name: MC: IN: Katherine C   Days Worked: 9   Normal Pay: 2550.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: IN: Jaden A   Days Worked: 6   Normal Pay: 1700.0   Bonus Pay: 1000.0   Working: Quit
+Name: MC: IN: Max H   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Brittany V   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car19   Cost: 12624.694353829702   Sales Price: 25249.388707659404   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Car17   Cost: 10764.194587118152   Sales Price: 22963.61511918539   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Car10   Cost: 9743.816611602764   Sales Price: 20786.808771419233   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Performance Cars:
+
+Name: PC9   Cost: 22023.048410930707   Sales Price: 46982.503276652176   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC8   Cost: 20733.978158934788   Sales Price: 44232.48673906088   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC10   Cost: 27379.936044308928   Sales Price: 54759.872088617856   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup11   Cost: 18097.98717935259   Sales Price: 38609.03931595219   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Pickup13   Cost: 27316.924663260186   Sales Price: 54633.84932652037   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Pickup12   Cost: 16900.794814128974   Sales Price: 33801.58962825795   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car9   Cost: 17386.542020920162   Sales Price: 31611.8945834912   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup8   Cost: 26735.693777088778   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC2   Cost: 35158.68194775919   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC7   Cost: 25757.622988515803   Sales Price: 68686.99463604215   Condition: Used   Cleanliness: dirty   Sold: Sold
+Name: Car7   Cost: 13811.380130597117   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car11   Cost: 19953.485385872984   Sales Price: 32980.96757995534   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car12   Cost: 21150.80242846723   Sales Price: 38456.00441539496   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup9   Cost: 28846.017966409792   Sales Price: 47679.36853952031   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car13   Cost: 17363.93385973277   Sales Price: 31570.788835877764   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: PC6   Cost: 30569.02308933498   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car1   Cost: 14052.837222161546   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC3   Cost: 26427.11762114083   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup10   Cost: 28599.943018990638   Sales Price: 47272.63308924071   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup6   Cost: 25694.151244038305   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car15   Cost: 20417.479074564137   Sales Price: 37122.689226480245   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car14   Cost: 15654.585615542886   Sales Price: 25875.34812486427   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car16   Cost: 11000.450599177615   Sales Price: 20000.819271232027   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup2   Cost: 25096.996545769318   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car18   Cost: 14892.821165879048   Sales Price: 27077.85666523463   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 1076609.25518685
+Daily Sales: 0
+Day Number: 23
+IN: Jeff R has made a dirty car clean!
+IN: Matt K has made a clean car sparkling!
+SP: IN: Shane O has sold a car!
+SP: IN: John S has sold a performance car!
+IN: Jeff R has quit!
+IN: Matt K has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Shane V   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Carter K   Days Worked: 8   Normal Pay: 2000.0   Bonus Pay: 400.0   Working: Employed
+Name: IN: Daniel W   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Daniel L   Days Worked: 7   Normal Pay: 1950.0   Bonus Pay: 900.0   Working: Employed
+Name: MC: IN: John W   Days Worked: 5   Normal Pay: 1400.0   Bonus Pay: 250.0   Working: Employed
+Name: MC: IN: Sarah W   Days Worked: 4   Normal Pay: 1100.0   Bonus Pay: 200.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Shane O   Days Worked: 7   Normal Pay: 2100.0   Bonus Pay: 2750.0   Working: Employed
+Name: SP: IN: John S   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 5000.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 16   Normal Pay: 4650.0   Bonus Pay: 3500.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Luke E   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: SP: IN: Michelle K   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: Katherine I   Days Worked: 14   Normal Pay: 4200.0   Bonus Pay: 600.0   Working: Quit
+Name: IN: Daniel A   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Daniel T   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 300.0   Working: Quit
+Name: SP: IN: Paige W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: IN: Jaden Q   Days Worked: 15   Normal Pay: 4400.0   Bonus Pay: 1450.0   Working: Quit
+Name: SP: IN: Ryan A   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: Luke B   Days Worked: 5   Normal Pay: 1250.0   Bonus Pay: 450.0   Working: Quit
+Name: MC: IN: Jaden C   Days Worked: 10   Normal Pay: 3000.0   Bonus Pay: 3900.0   Working: Quit
+Name: MC: IN: Katherine C   Days Worked: 9   Normal Pay: 2550.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: IN: Jaden A   Days Worked: 6   Normal Pay: 1700.0   Bonus Pay: 1000.0   Working: Quit
+Name: MC: IN: Max H   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Brittany V   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Jeff R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Matt K   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car20   Cost: 14362.243583592552   Sales Price: 35905.60895898138   Condition: Used   Cleanliness: dirty   Sold: In Stock
+Name: Car17   Cost: 10764.194587118152   Sales Price: 22963.61511918539   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car10   Cost: 9743.816611602764   Sales Price: 20786.808771419233   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Performance Cars:
+
+Name: PC9   Cost: 22023.048410930707   Sales Price: 46982.503276652176   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC8   Cost: 20733.978158934788   Sales Price: 44232.48673906088   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC11   Cost: 26089.739958273658   Sales Price: 65224.34989568414   Condition: Used   Cleanliness: clean   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup11   Cost: 18097.98717935259   Sales Price: 38609.03931595219   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Pickup13   Cost: 27316.924663260186   Sales Price: 54633.84932652037   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Pickup12   Cost: 16900.794814128974   Sales Price: 33801.58962825795   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car9   Cost: 17386.542020920162   Sales Price: 31611.8945834912   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup8   Cost: 26735.693777088778   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC2   Cost: 35158.68194775919   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC7   Cost: 25757.622988515803   Sales Price: 68686.99463604215   Condition: Used   Cleanliness: dirty   Sold: Sold
+Name: Car7   Cost: 13811.380130597117   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car11   Cost: 19953.485385872984   Sales Price: 32980.96757995534   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car12   Cost: 21150.80242846723   Sales Price: 38456.00441539496   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup9   Cost: 28846.017966409792   Sales Price: 47679.36853952031   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car13   Cost: 17363.93385973277   Sales Price: 31570.788835877764   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: PC6   Cost: 30569.02308933498   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car1   Cost: 14052.837222161546   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC3   Cost: 26427.11762114083   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup10   Cost: 28599.943018990638   Sales Price: 47272.63308924071   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup6   Cost: 25694.151244038305   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car15   Cost: 20417.479074564137   Sales Price: 37122.689226480245   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car14   Cost: 15654.585615542886   Sales Price: 25875.34812486427   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car16   Cost: 11000.450599177615   Sales Price: 20000.819271232027   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup2   Cost: 25096.996545769318   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car18   Cost: 14892.821165879048   Sales Price: 27077.85666523463   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car19   Cost: 13887.163789212673   Sales Price: 25249.388707659404   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC10   Cost: 33129.72261361381   Sales Price: 54759.872088617856   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 1113466.532441261
+Daily Sales: 80008
+Day Number: 24
+IN: Shane V has made a dirty car sparkling!
+IN: Carter K has made a clean car sparkling!
+IN: Daniel W has made a clean car sparkling!
+MC: IN: Daniel L has made a used car like new!
+MC: IN: Daniel L has made a used car like new!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Shane V   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Employed
+Name: IN: Carter K   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 600.0   Working: Employed
+Name: IN: Daniel W   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 150.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Daniel L   Days Worked: 8   Normal Pay: 2250.0   Bonus Pay: 1500.0   Working: Employed
+Name: MC: IN: John W   Days Worked: 6   Normal Pay: 1700.0   Bonus Pay: 250.0   Working: Employed
+Name: MC: IN: Sarah W   Days Worked: 5   Normal Pay: 1400.0   Bonus Pay: 200.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Shane O   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2750.0   Working: Employed
+Name: SP: IN: John S   Days Worked: 9   Normal Pay: 2700.0   Bonus Pay: 5000.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 17   Normal Pay: 4950.0   Bonus Pay: 3500.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Luke E   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: SP: IN: Michelle K   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: Katherine I   Days Worked: 14   Normal Pay: 4200.0   Bonus Pay: 600.0   Working: Quit
+Name: IN: Daniel A   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Daniel T   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 300.0   Working: Quit
+Name: SP: IN: Paige W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: IN: Jaden Q   Days Worked: 15   Normal Pay: 4400.0   Bonus Pay: 1450.0   Working: Quit
+Name: SP: IN: Ryan A   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: Luke B   Days Worked: 5   Normal Pay: 1250.0   Bonus Pay: 450.0   Working: Quit
+Name: MC: IN: Jaden C   Days Worked: 10   Normal Pay: 3000.0   Bonus Pay: 3900.0   Working: Quit
+Name: MC: IN: Katherine C   Days Worked: 9   Normal Pay: 2550.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: IN: Jaden A   Days Worked: 6   Normal Pay: 1700.0   Bonus Pay: 1000.0   Working: Quit
+Name: MC: IN: Max H   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Brittany V   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Jeff R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Matt K   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car20   Cost: 17952.80447949069   Sales Price: 35905.60895898138   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Car17   Cost: 10764.194587118152   Sales Price: 22963.61511918539   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car10   Cost: 9743.816611602764   Sales Price: 20786.808771419233   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Performance Cars:
+
+Name: PC9   Cost: 22023.048410930707   Sales Price: 46982.503276652176   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: PC8   Cost: 20733.978158934788   Sales Price: 44232.48673906088   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC11   Cost: 32612.17494784207   Sales Price: 65224.34989568414   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup11   Cost: 18097.98717935259   Sales Price: 38609.03931595219   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Pickup13   Cost: 27316.924663260186   Sales Price: 54633.84932652037   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup12   Cost: 16900.794814128974   Sales Price: 33801.58962825795   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car9   Cost: 17386.542020920162   Sales Price: 31611.8945834912   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup8   Cost: 26735.693777088778   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC2   Cost: 35158.68194775919   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC7   Cost: 25757.622988515803   Sales Price: 68686.99463604215   Condition: Used   Cleanliness: dirty   Sold: Sold
+Name: Car7   Cost: 13811.380130597117   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car11   Cost: 19953.485385872984   Sales Price: 32980.96757995534   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car12   Cost: 21150.80242846723   Sales Price: 38456.00441539496   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup9   Cost: 28846.017966409792   Sales Price: 47679.36853952031   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car13   Cost: 17363.93385973277   Sales Price: 31570.788835877764   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: PC6   Cost: 30569.02308933498   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car1   Cost: 14052.837222161546   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC3   Cost: 26427.11762114083   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup10   Cost: 28599.943018990638   Sales Price: 47272.63308924071   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup6   Cost: 25694.151244038305   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car15   Cost: 20417.479074564137   Sales Price: 37122.689226480245   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car14   Cost: 15654.585615542886   Sales Price: 25875.34812486427   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car16   Cost: 11000.450599177615   Sales Price: 20000.819271232027   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup2   Cost: 25096.996545769318   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car18   Cost: 14892.821165879048   Sales Price: 27077.85666523463   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car19   Cost: 13887.163789212673   Sales Price: 25249.388707659404   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC10   Cost: 33129.72261361381   Sales Price: 54759.872088617856   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 1110766.532441261
+Daily Sales: 0
+Day Number: 25
+IN: Shane V has made a dirty car clean!
+IN: Shane V has made a dirty car clean!
+IN: Carter K has made a clean car sparkling!
+IN: Daniel W has made a clean car sparkling!
+SP: IN: Sarah N has sold a pickup truck!
+MC: IN: John W has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Shane V   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 100.0   Working: Employed
+Name: IN: Sarah B   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Daniel W   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 350.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Daniel L   Days Worked: 9   Normal Pay: 2550.0   Bonus Pay: 1500.0   Working: Employed
+Name: MC: IN: Carter K   Days Worked: 10   Normal Pay: 2500.0   Bonus Pay: 750.0   Working: Employed
+Name: MC: IN: Sarah W   Days Worked: 6   Normal Pay: 1700.0   Bonus Pay: 200.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Shane O   Days Worked: 9   Normal Pay: 2700.0   Bonus Pay: 2750.0   Working: Employed
+Name: SP: IN: John S   Days Worked: 10   Normal Pay: 3000.0   Bonus Pay: 5000.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 18   Normal Pay: 5250.0   Bonus Pay: 4250.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Luke E   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: SP: IN: Michelle K   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: Katherine I   Days Worked: 14   Normal Pay: 4200.0   Bonus Pay: 600.0   Working: Quit
+Name: IN: Daniel A   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Daniel T   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 300.0   Working: Quit
+Name: SP: IN: Paige W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: IN: Jaden Q   Days Worked: 15   Normal Pay: 4400.0   Bonus Pay: 1450.0   Working: Quit
+Name: SP: IN: Ryan A   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: Luke B   Days Worked: 5   Normal Pay: 1250.0   Bonus Pay: 450.0   Working: Quit
+Name: MC: IN: Jaden C   Days Worked: 10   Normal Pay: 3000.0   Bonus Pay: 3900.0   Working: Quit
+Name: MC: IN: Katherine C   Days Worked: 9   Normal Pay: 2550.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: IN: Jaden A   Days Worked: 6   Normal Pay: 1700.0   Bonus Pay: 1000.0   Working: Quit
+Name: MC: IN: Max H   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Brittany V   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Jeff R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Matt K   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: MC: IN: John W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 250.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car20   Cost: 17952.80447949069   Sales Price: 35905.60895898138   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Car17   Cost: 10764.194587118152   Sales Price: 22963.61511918539   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car10   Cost: 9743.816611602764   Sales Price: 20786.808771419233   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Performance Cars:
+
+Name: PC9   Cost: 22023.048410930707   Sales Price: 46982.503276652176   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC8   Cost: 20733.978158934788   Sales Price: 44232.48673906088   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC11   Cost: 32612.17494784207   Sales Price: 65224.34989568414   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup11   Cost: 18097.98717935259   Sales Price: 38609.03931595219   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Pickup14   Cost: 29754.438122496358   Sales Price: 74386.0953062409   Condition: Used   Cleanliness: clean   Sold: In Stock
+Name: Pickup12   Cost: 16900.794814128974   Sales Price: 33801.58962825795   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car9   Cost: 17386.542020920162   Sales Price: 31611.8945834912   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup8   Cost: 26735.693777088778   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC2   Cost: 35158.68194775919   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC7   Cost: 25757.622988515803   Sales Price: 68686.99463604215   Condition: Used   Cleanliness: dirty   Sold: Sold
+Name: Car7   Cost: 13811.380130597117   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car11   Cost: 19953.485385872984   Sales Price: 32980.96757995534   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car12   Cost: 21150.80242846723   Sales Price: 38456.00441539496   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup9   Cost: 28846.017966409792   Sales Price: 47679.36853952031   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car13   Cost: 17363.93385973277   Sales Price: 31570.788835877764   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: PC6   Cost: 30569.02308933498   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car1   Cost: 14052.837222161546   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC3   Cost: 26427.11762114083   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup10   Cost: 28599.943018990638   Sales Price: 47272.63308924071   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup6   Cost: 25694.151244038305   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car15   Cost: 20417.479074564137   Sales Price: 37122.689226480245   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car14   Cost: 15654.585615542886   Sales Price: 25875.34812486427   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car16   Cost: 11000.450599177615   Sales Price: 20000.819271232027   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup2   Cost: 25096.996545769318   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car18   Cost: 14892.821165879048   Sales Price: 27077.85666523463   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car19   Cost: 13887.163789212673   Sales Price: 25249.388707659404   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC10   Cost: 33129.72261361381   Sales Price: 54759.872088617856   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup13   Cost: 33053.47884254483   Sales Price: 54633.84932652037   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 1132945.943645285
+Daily Sales: 54633
+Day Number: 26
+IN: Shane V has made a clean car sparkling!
+MC: IN: Daniel L has made a used car like new!
+SP: IN: John S has sold a car!
+SP: IN: Sarah N has sold a performance car!
+SP: IN: Sarah N has sold a performance car!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Shane V   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 250.0   Working: Employed
+Name: IN: Sarah B   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Daniel W   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 350.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Daniel L   Days Worked: 10   Normal Pay: 2850.0   Bonus Pay: 1800.0   Working: Employed
+Name: MC: IN: Carter K   Days Worked: 11   Normal Pay: 2800.0   Bonus Pay: 750.0   Working: Employed
+Name: MC: IN: Sarah W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 200.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Shane O   Days Worked: 10   Normal Pay: 3000.0   Bonus Pay: 2750.0   Working: Employed
+Name: SP: IN: John S   Days Worked: 11   Normal Pay: 3300.0   Bonus Pay: 5500.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 19   Normal Pay: 5550.0   Bonus Pay: 6250.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Luke E   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: SP: IN: Michelle K   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: Katherine I   Days Worked: 14   Normal Pay: 4200.0   Bonus Pay: 600.0   Working: Quit
+Name: IN: Daniel A   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Daniel T   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 300.0   Working: Quit
+Name: SP: IN: Paige W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: IN: Jaden Q   Days Worked: 15   Normal Pay: 4400.0   Bonus Pay: 1450.0   Working: Quit
+Name: SP: IN: Ryan A   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: Luke B   Days Worked: 5   Normal Pay: 1250.0   Bonus Pay: 450.0   Working: Quit
+Name: MC: IN: Jaden C   Days Worked: 10   Normal Pay: 3000.0   Bonus Pay: 3900.0   Working: Quit
+Name: MC: IN: Katherine C   Days Worked: 9   Normal Pay: 2550.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: IN: Jaden A   Days Worked: 6   Normal Pay: 1700.0   Bonus Pay: 1000.0   Working: Quit
+Name: MC: IN: Max H   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Brittany V   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Jeff R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Matt K   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: MC: IN: John W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 250.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car21   Cost: 14849.811233756715   Sales Price: 29699.62246751343   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Car17   Cost: 10764.194587118152   Sales Price: 22963.61511918539   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car10   Cost: 9743.816611602764   Sales Price: 20786.808771419233   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Performance Cars:
+
+Name: PC13   Cost: 16277.452807549118   Sales Price: 65109.81123019647   Condition: Broken   Cleanliness: dirty   Sold: In Stock
+Name: PC8   Cost: 20733.978158934788   Sales Price: 44232.48673906088   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC12   Cost: 23371.937054701244   Sales Price: 46743.87410940249   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup11   Cost: 18097.98717935259   Sales Price: 38609.03931595219   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup14   Cost: 37193.04765312045   Sales Price: 74386.0953062409   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Pickup12   Cost: 16900.794814128974   Sales Price: 33801.58962825795   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car9   Cost: 17386.542020920162   Sales Price: 31611.8945834912   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup8   Cost: 26735.693777088778   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC2   Cost: 35158.68194775919   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC7   Cost: 25757.622988515803   Sales Price: 68686.99463604215   Condition: Used   Cleanliness: dirty   Sold: Sold
+Name: Car7   Cost: 13811.380130597117   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car11   Cost: 19953.485385872984   Sales Price: 32980.96757995534   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car12   Cost: 21150.80242846723   Sales Price: 38456.00441539496   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup9   Cost: 28846.017966409792   Sales Price: 47679.36853952031   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car13   Cost: 17363.93385973277   Sales Price: 31570.788835877764   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: PC6   Cost: 30569.02308933498   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car1   Cost: 14052.837222161546   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC3   Cost: 26427.11762114083   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup10   Cost: 28599.943018990638   Sales Price: 47272.63308924071   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup6   Cost: 25694.151244038305   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car15   Cost: 20417.479074564137   Sales Price: 37122.689226480245   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car14   Cost: 15654.585615542886   Sales Price: 25875.34812486427   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car16   Cost: 11000.450599177615   Sales Price: 20000.819271232027   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup2   Cost: 25096.996545769318   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car18   Cost: 14892.821165879048   Sales Price: 27077.85666523463   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car19   Cost: 13887.163789212673   Sales Price: 25249.388707659404   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC10   Cost: 33129.72261361381   Sales Price: 54759.872088617856   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup13   Cost: 33053.47884254483   Sales Price: 54633.84932652037   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car20   Cost: 19748.08492743976   Sales Price: 35905.60895898138   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC11   Cost: 35873.39244262628   Sales Price: 65224.34989568414   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC9   Cost: 26647.88857722616   Sales Price: 46982.503276652176   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 1223859.2046805958
+Daily Sales: 148111
+Day Number: 27
+IN: Shane V has made a dirty car clean!
+IN: Sarah B has made a dirty car clean!
+IN: Sarah B has made a dirty car clean!
+IN: Daniel W has made a dirty car clean!
+MC: IN: Carter K has made a broken car used!
+SP: IN: Sarah N has sold a car!
+SP: IN: Sarah N has sold a pickup truck!
+IN: Sarah B has quit!
+MC: IN: Carter K has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Shane V   Days Worked: 4   Normal Pay: 1000.0   Bonus Pay: 250.0   Working: Employed
+Name: IN: David N   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: Daniel W   Days Worked: 4   Normal Pay: 1000.0   Bonus Pay: 350.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Daniel L   Days Worked: 11   Normal Pay: 3150.0   Bonus Pay: 1800.0   Working: Employed
+Name: MC: IN: Jaden L   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+Name: MC: IN: Sarah W   Days Worked: 8   Normal Pay: 2300.0   Bonus Pay: 200.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Shane O   Days Worked: 11   Normal Pay: 3300.0   Bonus Pay: 2750.0   Working: Employed
+Name: SP: IN: John S   Days Worked: 12   Normal Pay: 3600.0   Bonus Pay: 5500.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 20   Normal Pay: 5850.0   Bonus Pay: 7500.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Luke E   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: SP: IN: Michelle K   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: Katherine I   Days Worked: 14   Normal Pay: 4200.0   Bonus Pay: 600.0   Working: Quit
+Name: IN: Daniel A   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Daniel T   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 300.0   Working: Quit
+Name: SP: IN: Paige W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: IN: Jaden Q   Days Worked: 15   Normal Pay: 4400.0   Bonus Pay: 1450.0   Working: Quit
+Name: SP: IN: Ryan A   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: Luke B   Days Worked: 5   Normal Pay: 1250.0   Bonus Pay: 450.0   Working: Quit
+Name: MC: IN: Jaden C   Days Worked: 10   Normal Pay: 3000.0   Bonus Pay: 3900.0   Working: Quit
+Name: MC: IN: Katherine C   Days Worked: 9   Normal Pay: 2550.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: IN: Jaden A   Days Worked: 6   Normal Pay: 1700.0   Bonus Pay: 1000.0   Working: Quit
+Name: MC: IN: Max H   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Brittany V   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Jeff R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Matt K   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: MC: IN: John W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 250.0   Working: Quit
+Name: IN: Sarah B   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: IN: Carter K   Days Worked: 12   Normal Pay: 3100.0   Bonus Pay: 1150.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car22   Cost: 15454.528767362412   Sales Price: 38636.32191840603   Condition: Used   Cleanliness: dirty   Sold: In Stock
+Name: Car17   Cost: 10764.194587118152   Sales Price: 22963.61511918539   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car10   Cost: 9743.816611602764   Sales Price: 20786.808771419233   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Performance Cars:
+
+Name: PC13   Cost: 24416.179211323677   Sales Price: 65109.81123019647   Condition: Used   Cleanliness: dirty   Sold: In Stock
+Name: PC8   Cost: 20733.978158934788   Sales Price: 44232.48673906088   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC12   Cost: 23371.937054701244   Sales Price: 46743.87410940249   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup11   Cost: 18097.98717935259   Sales Price: 38609.03931595219   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup15   Cost: 16127.78070246265   Sales Price: 32255.5614049253   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Pickup12   Cost: 16900.794814128974   Sales Price: 33801.58962825795   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car9   Cost: 17386.542020920162   Sales Price: 31611.8945834912   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup8   Cost: 26735.693777088778   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC2   Cost: 35158.68194775919   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC7   Cost: 25757.622988515803   Sales Price: 68686.99463604215   Condition: Used   Cleanliness: dirty   Sold: Sold
+Name: Car7   Cost: 13811.380130597117   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car11   Cost: 19953.485385872984   Sales Price: 32980.96757995534   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car12   Cost: 21150.80242846723   Sales Price: 38456.00441539496   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup9   Cost: 28846.017966409792   Sales Price: 47679.36853952031   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car13   Cost: 17363.93385973277   Sales Price: 31570.788835877764   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: PC6   Cost: 30569.02308933498   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car1   Cost: 14052.837222161546   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC3   Cost: 26427.11762114083   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup10   Cost: 28599.943018990638   Sales Price: 47272.63308924071   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup6   Cost: 25694.151244038305   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car15   Cost: 20417.479074564137   Sales Price: 37122.689226480245   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car14   Cost: 15654.585615542886   Sales Price: 25875.34812486427   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car16   Cost: 11000.450599177615   Sales Price: 20000.819271232027   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup2   Cost: 25096.996545769318   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car18   Cost: 14892.821165879048   Sales Price: 27077.85666523463   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car19   Cost: 13887.163789212673   Sales Price: 25249.388707659404   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC10   Cost: 33129.72261361381   Sales Price: 54759.872088617856   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup13   Cost: 33053.47884254483   Sales Price: 54633.84932652037   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car20   Cost: 19748.08492743976   Sales Price: 35905.60895898138   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC11   Cost: 35873.39244262628   Sales Price: 65224.34989568414   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC9   Cost: 26647.88857722616   Sales Price: 46982.503276652176   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car21   Cost: 16334.792357132388   Sales Price: 29699.62246751343   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup14   Cost: 40912.35241843249   Sales Price: 74386.0953062409   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 1293662.612984525
+Daily Sales: 104085
+Day Number: 28
+IN: Shane V has made a dirty car clean!
+IN: David N has made a dirty car clean!
+IN: David N has made a dirty car clean!
+IN: Daniel W has made a clean car sparkling!
+MC: IN: Daniel L has made a used car like new!
+MC: IN: Daniel L has made a used car like new!
+SP: IN: Shane O has sold a performance car!
+MC: IN: Daniel L has quit!
+MC: IN: Sarah W has quit!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Shane V   Days Worked: 5   Normal Pay: 1250.0   Bonus Pay: 250.0   Working: Employed
+Name: IN: David N   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: John R   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Daniel W   Days Worked: 5   Normal Pay: 1250.0   Bonus Pay: 550.0   Working: Employed
+Name: MC: IN: Jaden L   Days Worked: 1   Normal Pay: 300.0   Bonus Pay: 0.0   Working: Employed
+Name: MC: IN: Shane V   Days Worked: 0   Normal Pay: 0.0   Bonus Pay: 0.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Shane O   Days Worked: 12   Normal Pay: 3600.0   Bonus Pay: 3750.0   Working: Employed
+Name: SP: IN: John S   Days Worked: 13   Normal Pay: 3900.0   Bonus Pay: 5500.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 21   Normal Pay: 6150.0   Bonus Pay: 7500.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Luke E   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: SP: IN: Michelle K   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: Katherine I   Days Worked: 14   Normal Pay: 4200.0   Bonus Pay: 600.0   Working: Quit
+Name: IN: Daniel A   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Daniel T   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 300.0   Working: Quit
+Name: SP: IN: Paige W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: IN: Jaden Q   Days Worked: 15   Normal Pay: 4400.0   Bonus Pay: 1450.0   Working: Quit
+Name: SP: IN: Ryan A   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: Luke B   Days Worked: 5   Normal Pay: 1250.0   Bonus Pay: 450.0   Working: Quit
+Name: MC: IN: Jaden C   Days Worked: 10   Normal Pay: 3000.0   Bonus Pay: 3900.0   Working: Quit
+Name: MC: IN: Katherine C   Days Worked: 9   Normal Pay: 2550.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: IN: Jaden A   Days Worked: 6   Normal Pay: 1700.0   Bonus Pay: 1000.0   Working: Quit
+Name: MC: IN: Max H   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Brittany V   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Jeff R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Matt K   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: MC: IN: John W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 250.0   Working: Quit
+Name: IN: Sarah B   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: IN: Carter K   Days Worked: 12   Normal Pay: 3100.0   Bonus Pay: 1150.0   Working: Quit
+Name: MC: IN: Daniel L   Days Worked: 12   Normal Pay: 3450.0   Bonus Pay: 2400.0   Working: Quit
+Name: MC: IN: Sarah W   Days Worked: 9   Normal Pay: 2600.0   Bonus Pay: 200.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car22   Cost: 19318.160959203014   Sales Price: 38636.32191840603   Condition: LikeNew   Cleanliness: dirty   Sold: In Stock
+Name: Car17   Cost: 10764.194587118152   Sales Price: 22963.61511918539   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car10   Cost: 9743.816611602764   Sales Price: 20786.808771419233   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Performance Cars:
+
+Name: PC14   Cost: 13392.163869306238   Sales Price: 53568.65547722495   Condition: Broken   Cleanliness: dirty   Sold: In Stock
+Name: PC8   Cost: 20733.978158934788   Sales Price: 44232.48673906088   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC12   Cost: 23371.937054701244   Sales Price: 46743.87410940249   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup11   Cost: 18097.98717935259   Sales Price: 38609.03931595219   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup15   Cost: 16127.78070246265   Sales Price: 32255.5614049253   Condition: LikeNew   Cleanliness: clean   Sold: In Stock
+Name: Pickup12   Cost: 16900.794814128974   Sales Price: 33801.58962825795   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car9   Cost: 17386.542020920162   Sales Price: 31611.8945834912   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup8   Cost: 26735.693777088778   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC2   Cost: 35158.68194775919   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC7   Cost: 25757.622988515803   Sales Price: 68686.99463604215   Condition: Used   Cleanliness: dirty   Sold: Sold
+Name: Car7   Cost: 13811.380130597117   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car11   Cost: 19953.485385872984   Sales Price: 32980.96757995534   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car12   Cost: 21150.80242846723   Sales Price: 38456.00441539496   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup9   Cost: 28846.017966409792   Sales Price: 47679.36853952031   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car13   Cost: 17363.93385973277   Sales Price: 31570.788835877764   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: PC6   Cost: 30569.02308933498   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car1   Cost: 14052.837222161546   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC3   Cost: 26427.11762114083   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup10   Cost: 28599.943018990638   Sales Price: 47272.63308924071   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup6   Cost: 25694.151244038305   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car15   Cost: 20417.479074564137   Sales Price: 37122.689226480245   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car14   Cost: 15654.585615542886   Sales Price: 25875.34812486427   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car16   Cost: 11000.450599177615   Sales Price: 20000.819271232027   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup2   Cost: 25096.996545769318   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car18   Cost: 14892.821165879048   Sales Price: 27077.85666523463   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car19   Cost: 13887.163789212673   Sales Price: 25249.388707659404   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC10   Cost: 33129.72261361381   Sales Price: 54759.872088617856   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup13   Cost: 33053.47884254483   Sales Price: 54633.84932652037   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car20   Cost: 19748.08492743976   Sales Price: 35905.60895898138   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC11   Cost: 35873.39244262628   Sales Price: 65224.34989568414   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC9   Cost: 26647.88857722616   Sales Price: 46982.503276652176   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car21   Cost: 16334.792357132388   Sales Price: 29699.62246751343   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup14   Cost: 40912.35241843249   Sales Price: 74386.0953062409   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC13   Cost: 33572.24641557006   Sales Price: 65109.81123019647   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 1342680.2603454152
+Daily Sales: 65109
+Day Number: 29
+IN: Shane V has made a dirty car sparkling!
+IN: Shane V has made a dirty car sparkling!
+IN: John R has made a clean car sparkling!
+MC: IN: Daniel W has made a broken car used!
+SP: IN: Shane O has sold a pickup truck!
+
+
+Daily Report:
+Interns:
+
+Name: IN: Shane V   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 550.0   Working: Employed
+Name: IN: David N   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Employed
+Name: IN: John R   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 150.0   Working: Employed
+
+Mechanics:
+
+Name: MC: IN: Daniel W   Days Worked: 6   Normal Pay: 1550.0   Bonus Pay: 950.0   Working: Employed
+Name: MC: IN: Jaden L   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 0.0   Working: Employed
+Name: MC: IN: Shane V   Days Worked: 1   Normal Pay: 300.0   Bonus Pay: 0.0   Working: Employed
+
+Sales People:
+
+Name: SP: IN: Shane O   Days Worked: 13   Normal Pay: 3900.0   Bonus Pay: 4500.0   Working: Employed
+Name: SP: IN: John S   Days Worked: 14   Normal Pay: 4200.0   Bonus Pay: 5500.0   Working: Employed
+Name: SP: IN: Sarah N   Days Worked: 22   Normal Pay: 6450.0   Bonus Pay: 7500.0   Working: Employed
+
+Past Workers:
+
+Name: SP: Max S   Days Worked: 2   Normal Pay: 700.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Christine R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 200.0   Working: Quit
+Name: MC: Luke W   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: Diane N   Days Worked: 8   Normal Pay: 2400.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: David O   Days Worked: 9   Normal Pay: 2250.0   Bonus Pay: 200.0   Working: Quit
+Name: SP: Emily C   Days Worked: 9   Normal Pay: 3150.0   Bonus Pay: 3250.0   Working: Quit
+Name: IN: Carter C   Days Worked: 7   Normal Pay: 1750.0   Bonus Pay: 550.0   Working: Quit
+Name: MC: IN: Matt A   Days Worked: 6   Normal Pay: 1600.0   Bonus Pay: 1650.0   Working: Quit
+Name: SP: Brittany N   Days Worked: 10   Normal Pay: 3500.0   Bonus Pay: 2000.0   Working: Quit
+Name: SP: IN: Paige P   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 1750.0   Working: Quit
+Name: SP: IN: Michelle O   Days Worked: 11   Normal Pay: 3200.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Carter Z   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Luke E   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: SP: IN: Michelle K   Days Worked: 3   Normal Pay: 900.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: Katherine I   Days Worked: 14   Normal Pay: 4200.0   Bonus Pay: 600.0   Working: Quit
+Name: IN: Daniel A   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Daniel T   Days Worked: 6   Normal Pay: 1500.0   Bonus Pay: 300.0   Working: Quit
+Name: SP: IN: Paige W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 1100.0   Working: Quit
+Name: MC: IN: Jaden Q   Days Worked: 15   Normal Pay: 4400.0   Bonus Pay: 1450.0   Working: Quit
+Name: SP: IN: Ryan A   Days Worked: 4   Normal Pay: 1200.0   Bonus Pay: 2500.0   Working: Quit
+Name: IN: Luke B   Days Worked: 5   Normal Pay: 1250.0   Bonus Pay: 450.0   Working: Quit
+Name: MC: IN: Jaden C   Days Worked: 10   Normal Pay: 3000.0   Bonus Pay: 3900.0   Working: Quit
+Name: MC: IN: Katherine C   Days Worked: 9   Normal Pay: 2550.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: IN: Jaden A   Days Worked: 6   Normal Pay: 1700.0   Bonus Pay: 1000.0   Working: Quit
+Name: MC: IN: Max H   Days Worked: 2   Normal Pay: 600.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Brittany V   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Jeff R   Days Worked: 3   Normal Pay: 750.0   Bonus Pay: 0.0   Working: Quit
+Name: IN: Matt K   Days Worked: 1   Normal Pay: 250.0   Bonus Pay: 100.0   Working: Quit
+Name: MC: IN: John W   Days Worked: 7   Normal Pay: 2000.0   Bonus Pay: 250.0   Working: Quit
+Name: IN: Sarah B   Days Worked: 2   Normal Pay: 500.0   Bonus Pay: 0.0   Working: Quit
+Name: MC: IN: Carter K   Days Worked: 12   Normal Pay: 3100.0   Bonus Pay: 1150.0   Working: Quit
+Name: MC: IN: Daniel L   Days Worked: 12   Normal Pay: 3450.0   Bonus Pay: 2400.0   Working: Quit
+Name: MC: IN: Sarah W   Days Worked: 9   Normal Pay: 2600.0   Bonus Pay: 200.0   Working: Quit
+
+
+Inventory:
+Cars:
+
+Name: Car22   Cost: 19318.160959203014   Sales Price: 38636.32191840603   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car17   Cost: 10764.194587118152   Sales Price: 22963.61511918539   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Car10   Cost: 9743.816611602764   Sales Price: 20786.808771419233   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Performance Cars:
+
+Name: PC14   Cost: 20088.245803959355   Sales Price: 53568.65547722495   Condition: Used   Cleanliness: dirty   Sold: In Stock
+Name: PC8   Cost: 20733.978158934788   Sales Price: 44232.48673906088   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: PC12   Cost: 23371.937054701244   Sales Price: 46743.87410940249   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Pickup Trucks:
+
+Name: Pickup16   Cost: 20264.594748894924   Sales Price: 50661.48687223731   Condition: Used   Cleanliness: clean   Sold: In Stock
+Name: Pickup15   Cost: 16127.78070246265   Sales Price: 32255.5614049253   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+Name: Pickup12   Cost: 16900.794814128974   Sales Price: 33801.58962825795   Condition: LikeNew   Cleanliness: sparkling   Sold: In Stock
+
+Past Cars:
+
+Name: Pickup1   Cost: 42069.024483246794   Sales Price: 76489.13542408508   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car2   Cost: 14774.008045654773   Sales Price: 26861.832810281405   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car3   Cost: 15462.271996778305   Sales Price: 25557.474374840167   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup3   Cost: 39422.66407367893   Sales Price: 71677.5710430526   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup5   Cost: 28230.236116892236   Sales Price: 54749.548832760694   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC1   Cost: 39006.81908742841   Sales Price: 70921.48924986983   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC5   Cost: 38542.795999591355   Sales Price: 74749.66496890443   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup7   Cost: 32030.997205607982   Sales Price: 62120.721853300325   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car5   Cost: 17093.051379964243   Sales Price: 33150.160252051865   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car6   Cost: 12990.950250963595   Sales Price: 25194.57018368697   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car8   Cost: 18708.819152179403   Sales Price: 34016.034822144364   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Car9   Cost: 17386.542020920162   Sales Price: 31611.8945834912   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup8   Cost: 26735.693777088778   Sales Price: 51851.042476778224   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC2   Cost: 35158.68194775919   Sales Price: 58113.5238805937   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC7   Cost: 25757.622988515803   Sales Price: 68686.99463604215   Condition: Used   Cleanliness: dirty   Sold: Sold
+Name: Car7   Cost: 13811.380130597117   Sales Price: 25111.600237449304   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car11   Cost: 19953.485385872984   Sales Price: 32980.96757995534   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car12   Cost: 21150.80242846723   Sales Price: 38456.00441539496   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup9   Cost: 28846.017966409792   Sales Price: 47679.36853952031   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car13   Cost: 17363.93385973277   Sales Price: 31570.788835877764   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: PC6   Cost: 30569.02308933498   Sales Price: 53895.798284226956   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car1   Cost: 14052.837222161546   Sales Price: 23227.830119275277   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: PC3   Cost: 26427.11762114083   Sales Price: 46593.26522735573   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup10   Cost: 28599.943018990638   Sales Price: 47272.63308924071   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup6   Cost: 25694.151244038305   Sales Price: 42469.67147774926   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car15   Cost: 20417.479074564137   Sales Price: 37122.689226480245   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car14   Cost: 15654.585615542886   Sales Price: 25875.34812486427   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car16   Cost: 11000.450599177615   Sales Price: 20000.819271232027   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup2   Cost: 25096.996545769318   Sales Price: 41482.638918626966   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car18   Cost: 14892.821165879048   Sales Price: 27077.85666523463   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Car19   Cost: 13887.163789212673   Sales Price: 25249.388707659404   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC10   Cost: 33129.72261361381   Sales Price: 54759.872088617856   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Pickup13   Cost: 33053.47884254483   Sales Price: 54633.84932652037   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car20   Cost: 19748.08492743976   Sales Price: 35905.60895898138   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC11   Cost: 35873.39244262628   Sales Price: 65224.34989568414   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC9   Cost: 26647.88857722616   Sales Price: 46982.503276652176   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+Name: Car21   Cost: 16334.792357132388   Sales Price: 29699.62246751343   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: Pickup14   Cost: 40912.35241843249   Sales Price: 74386.0953062409   Condition: LikeNew   Cleanliness: clean   Sold: Sold
+Name: PC13   Cost: 33572.24641557006   Sales Price: 65109.81123019647   Condition: LikeNew   Cleanliness: dirty   Sold: Sold
+Name: Pickup11   Cost: 21898.564487016636   Sales Price: 38609.03931595219   Condition: LikeNew   Cleanliness: sparkling   Sold: Sold
+
+
+Finances:
+
+Operating Budget: 1358324.7049124725
+Daily Sales: 38609
+Day Number: 30
+Press any key to continue . . .

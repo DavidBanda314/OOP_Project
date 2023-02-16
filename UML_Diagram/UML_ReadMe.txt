@@ -1,0 +1,2 @@
+The only thing that really changed in our UML diagram were the methods for the staff subclasses, and the data types for the vehicle subclasses.
+We simply felt that it would be better to have a more centralized design, so we delegated these changes elsewhere.
